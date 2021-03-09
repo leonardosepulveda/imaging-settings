@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<recipe>
+	<command_sequence>
+		<loop name = "Movie Loop 1">
+			<movie>
+				<name increment = "Yes">hal-config-750z7dz15-647z7dz15-560z3dz05-488z7dz15-455z7dz15</name>
+				<length>31</length>
+				<parameters>hal-config-750z7dz15-647z7dz15-560z3dz05-488z7dz15-455z7dz15</parameters>
+				<check_focus>
+                    <min_sum>60000</min_sum>
+					<num_focus_checks>20</num_focus_checks>
+					<focus_scan/>
+				</check_focus>
+				<overwrite>False</overwrite>
+				<variable_entry name = "Movie Loop 1"></variable_entry>
+			</movie>
+		</loop>
+		<loop name="Hybridize Loop 1">
+			<variable_entry name = "Hybridize Loop 1"></variable_entry>
+			<valve_protocol>Flow Image Buffer</valve_protocol>
+			<loop name = "Movie Loop 2">
+				<movie>
+					<name increment = "Yes">hal-config-750z7dz15-647z7dz15-560z3dz05</name>
+					<length>17</length>
+					<parameters>hal-config-750z7dz15-647z7dz15-560z3dz05</parameters>
+					<check_focus>
+                        <min_sum>60000</min_sum>
+						<num_focus_checks>20</num_focus_checks>
+						<focus_scan/>
+					</check_focus>
+					<overwrite>False</overwrite>
+					<variable_entry name = "Movie Loop 2"></variable_entry>
+				</movie>
+			</loop>
+		</loop>
+		<valve_protocol>Flow SSC</valve_protocol>
+        <loop name="Hybridize Loop 2">
+			<variable_entry name = "Hybridize Loop 2"></variable_entry>
+			<valve_protocol>Flow Image Buffer</valve_protocol>
+			<loop name = "Movie Loop 3">
+				<movie>
+					<name increment = "Yes">hal-config-750z7dz15-647z7dz15-560z3dz05-2</name>
+					<length>17</length>
+					<parameters>hal-config-750z7dz15-647z7dz15-560z3dz05-2</parameters>
+					<check_focus>
+                        <min_sum>60000</min_sum>
+						<num_focus_checks>20</num_focus_checks>
+						<focus_scan/>
+					</check_focus>
+					<overwrite>False</overwrite>
+					<variable_entry name = "Movie Loop 3"></variable_entry>
+				</movie>
+			</loop>
+		</loop>
+	</command_sequence>
+
+	<loop_variable name = "Movie Loop 1">
+		<file_path></file_path>
+	</loop_variable>
+
+	<loop_variable name = "Movie Loop 2">
+		<file_path></file_path>
+	</loop_variable>
+
+    <loop_variable name = "Movie Loop 3">
+		<file_path></file_path>
+	</loop_variable>
+
+	<loop_variable name = "Hybridize Loop 1">
+		<value><valve_protocol>Cleave</valve_protocol><valve_protocol>Hybridize 2</valve_protocol><email><subject>Microscope Update</subject><body>Starting Hyb 2</body></email></value>
+		<value><valve_protocol>Cleave</valve_protocol><valve_protocol>Hybridize 3</valve_protocol><email><subject>Microscope Update</subject><body>Starting Hyb 3</body></email></value>
+		<value><valve_protocol>Cleave</valve_protocol><valve_protocol>Hybridize 4</valve_protocol><email><subject>Microscope Update</subject><body>Starting Hyb 4</body></email></value>
+		<value><valve_protocol>Cleave</valve_protocol><valve_protocol>Hybridize 5</valve_protocol><email><subject>Microscope Update</subject><body>Starting Hyb 5</body></email></value>
+		<value><valve_protocol>Cleave</valve_protocol><valve_protocol>Hybridize 6</valve_protocol><email><subject>Microscope Update</subject><body>Starting Hyb 6</body></email></value>
+		<value><valve_protocol>Cleave</valve_protocol><valve_protocol>Hybridize 7</valve_protocol><email><subject>Microscope Update</subject><body>Starting Hyb 7</body></email></value>
+		<value><valve_protocol>Cleave</valve_protocol><valve_protocol>Hybridize 8</valve_protocol><email><subject>Microscope Update</subject><body>Starting Hyb 8</body></email></value>
+	</loop_variable>
+
+    <loop_variable name = "Hybridize Loop 2">
+        <value><valve_protocol>Cleave</valve_protocol><valve_protocol>Hybridize 9</valve_protocol><email><subject>Microscope Update</subject><body>Starting Hyb 9</body></email></value>
+	</loop_variable>
+
+</recipe>

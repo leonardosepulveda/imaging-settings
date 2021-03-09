@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<recipe>
+	<command_sequence>
+		<loop name = "Movie Loop 1">
+			<movie>
+				<name increment = "Yes">hal</name>
+				<length>2</length>
+				<parameters>hal-config-60x-mosaic-405</parameters>
+				<check_focus>
+                    <min_sum>60000</min_sum>
+					<num_focus_checks>20</num_focus_checks>
+					<focus_scan/>
+				</check_focus>
+				<overwrite>False</overwrite>
+				<variable_entry name = "Movie Loop 1"></variable_entry>
+			</movie>
+		</loop>
+	</command_sequence>
+
+	<loop_variable name = "Movie Loop 1">
+		<file_path></file_path>
+	</loop_variable>
+</recipe>
