@@ -6,7 +6,7 @@
 			<movie>
 				<name increment = "Yes">hal</name>
 				<length>160</length>
-				<parameters>hal-config-748-637-476-405-dz02-mf3</parameters>
+				<parameters>hal-config-748-637-546-405-dz02-z40-mf3</parameters>
 				<check_focus>
                     <min_sum>60000</min_sum>
 					<num_focus_checks>30</num_focus_checks>
@@ -24,7 +24,7 @@
 				<movie>
 					<name increment = "Yes">hal</name>
 					<length>120</length>
-					<parameters>hal-config-748-637-476-dz02-mf3</parameters>
+					<parameters>hal-config-748-637-546-dz02-z40-mf3</parameters>
 					<check_focus>
                         <min_sum>60000</min_sum>
 						<num_focus_checks>30</num_focus_checks>
@@ -47,31 +47,31 @@
 
 	<loop_variable name = "Hybridize Loop 1">
 		<value>
-			<valve_protocol>Cleave</valve_protocol>
+			<valve_protocol>Cleave Adaptors</valve_protocol>
 			<valve_protocol>Hybridize Adaptor 2</valve_protocol>
 		</value>
 		<value>
-			<valve_protocol>Cleave</valve_protocol>
+			<valve_protocol>Cleave Adaptors</valve_protocol>
 			<valve_protocol>Hybridize Adaptor 3</valve_protocol>
 		</value>
 		<value>
-			<valve_protocol>Cleave</valve_protocol>
+			<valve_protocol>Cleave Adaptors</valve_protocol>
 			<valve_protocol>Hybridize Adaptor 4</valve_protocol>
 		</value>
 		<value>
-			<valve_protocol>Cleave</valve_protocol>
+			<valve_protocol>Cleave Adaptors</valve_protocol>
 			<valve_protocol>Hybridize Adaptor 5</valve_protocol>
 		</value>
 		<value>
-			<valve_protocol>Cleave</valve_protocol>
+			<valve_protocol>Cleave Adaptors</valve_protocol>
 			<valve_protocol>Hybridize Adaptor 6</valve_protocol>
 		</value>
 		<value>
-			<valve_protocol>Cleave</valve_protocol>
+			<valve_protocol>Cleave Adaptors</valve_protocol>
 			<valve_protocol>Hybridize Adaptor 7</valve_protocol>
 		</value>
 		<value>
-			<valve_protocol>Cleave</valve_protocol>
+			<valve_protocol>Cleave Adaptors</valve_protocol>
 			<valve_protocol>Hybridize Adaptor 8</valve_protocol>
 		</value>
 	</loop_variable>
