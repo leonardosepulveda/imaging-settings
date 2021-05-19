@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<recipe>
+	<command_sequence>
+		<wakeup>10000</wakeup>
+		<loop name = "Movie Loop 1">
+			<movie>
+				<name increment = "Yes">hal</name>
+				<length>160</length>
+				<parameters>hal-config-748-637-546-405-dz02-z40-mf3</parameters>
+				<check_focus>
+                    <min_sum>60000</min_sum>
+					<num_focus_checks>30</num_focus_checks>
+					<focus_scan/>
+				</check_focus>
+				<overwrite>False</overwrite>
+				<variable_entry name = "Movie Loop 1"></variable_entry>
+			</movie>
+		</loop>
+		<loop name="Hybridize Loop 1">
+			<variable_entry name = "Hybridize Loop 1"></variable_entry>
+			<wakeup>10000</wakeup>
+			
+			<loop name = "Movie Loop 2">
+				<movie>
+					<name increment = "Yes">hal</name>
+					<length>120</length>
+					<parameters>hal-config-748-637-546-dz02-z40-mf3</parameters>
+					<check_focus>
+                        <min_sum>60000</min_sum>
+						<num_focus_checks>30</num_focus_checks>
+						<focus_scan/>
+					</check_focus>
+					<overwrite>False</overwrite>
+					<variable_entry name = "Movie Loop 2"></variable_entry>
+				</movie>
+			</loop>
+		</loop>
+	</command_sequence>
+
+	<loop_variable name = "Movie Loop 1">
+		<file_path></file_path>
+	</loop_variable>
+
+	<loop_variable name = "Movie Loop 2">
+		<file_path></file_path>
+	</loop_variable>
+
+	<loop_variable name = "Hybridize Loop 1">
+		<value>
+			<valve_protocol>Cleave Adaptors</valve_protocol>
+			<valve_protocol>Hybridize Adaptor 2</valve_protocol>
+		</value>
+		<value>
+			<valve_protocol>Cleave Adaptors</valve_protocol>
+			<valve_protocol>Hybridize Adaptor 3</valve_protocol>
+		</value>
+		<value>
+			<valve_protocol>Cleave Adaptors</valve_protocol>
+			<valve_protocol>Hybridize Adaptor 4</valve_protocol>
+		</value>
+		<value>
+			<valve_protocol>Cleave Adaptors</valve_protocol>
+			<valve_protocol>Hybridize Adaptor 5</valve_protocol>
+		</value>
+		<value>
+			<valve_protocol>Cleave Adaptors</valve_protocol>
+			<valve_protocol>Hybridize Adaptor 6</valve_protocol>
+		</value>
+		<value>
+			<valve_protocol>Cleave Adaptors</valve_protocol>
+			<valve_protocol>Hybridize Adaptor 7</valve_protocol>
+		</value>
+		<value>
+			<valve_protocol>Cleave Adaptors</valve_protocol>
+			<valve_protocol>Hybridize Adaptor 8</valve_protocol>
+		</value>
+	</loop_variable>
+</recipe>
