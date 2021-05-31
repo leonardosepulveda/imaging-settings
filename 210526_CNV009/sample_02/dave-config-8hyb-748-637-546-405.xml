@@ -5,8 +5,8 @@
 		<loop name = "Movie Loop 1">
 			<movie>
 				<name increment = "Yes">hal</name>
-				<length>160</length>
-				<parameters>hal-config-748-637-546-405-dz02-z40-mf3</parameters>
+				<length>140</length>
+				<parameters>hal-config-748-637-546-405-dz02-f140</parameters>
 				<check_focus>
                     <min_sum>60000</min_sum>
 					<num_focus_checks>30</num_focus_checks>
@@ -23,8 +23,8 @@
 			<loop name = "Movie Loop 2">
 				<movie>
 					<name increment = "Yes">hal</name>
-					<length>120</length>
-					<parameters>hal-config-748-637-546-dz02-z40-mf3</parameters>
+					<length>105</length>
+					<parameters>hal-config-748-637-546-dz02-f105</parameters>
 					<check_focus>
                         <min_sum>60000</min_sum>
 						<num_focus_checks>30</num_focus_checks>
