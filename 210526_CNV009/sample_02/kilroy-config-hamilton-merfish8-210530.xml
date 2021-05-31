@@ -749,9 +749,9 @@
 		<valve duration = "10">Wash Buffer</valve>
         <pump duration = "300">0.75 mL in 3 min</pump>
 
-	    <!-- Incubate with DAPI (5 min) -->
-	    <valve duration = "10">Set Hyb 24</valve>
-        <pump duration = "300">0.75 mL in 3 min</pump>
+	    <!-- flow image buffer (4.5 min)-->
+		<valve duration = "10">Image Buffer</valve>
+		<pump duration = "270">1.5 mL in 3 min</pump>
 	</protocol>
 
 	<protocol name = "Hybridize Adaptor 2">
@@ -772,9 +772,9 @@
 		<valve duration = "10">Wash Buffer</valve>
         <pump duration = "300">0.75 mL in 3 min</pump>
 
-	    <!-- Incubate with DAPI (5 min) -->
-	    <valve duration = "10">Set Hyb 24</valve>
-        <pump duration = "300">0.75 mL in 3 min</pump>
+	    <!-- flow image buffer (4.5 min)-->
+		<valve duration = "10">Image Buffer</valve>
+		<pump duration = "270">1.5 mL in 3 min</pump>
 	</protocol>
 
 	<protocol name = "Hybridize Adaptor 3">
@@ -795,9 +795,9 @@
 		<valve duration = "10">Wash Buffer</valve>
         <pump duration = "300">0.75 mL in 3 min</pump>
 
-	    <!-- Incubate with DAPI (5 min) -->
-	    <valve duration = "10">Set Hyb 24</valve>
-        <pump duration = "300">0.75 mL in 3 min</pump>
+	    <!-- flow image buffer (4.5 min)-->
+		<valve duration = "10">Image Buffer</valve>
+		<pump duration = "270">1.5 mL in 3 min</pump>
 	</protocol>
 
 	<protocol name = "Hybridize Adaptor 4">
@@ -818,9 +818,9 @@
 		<valve duration = "10">Wash Buffer</valve>
         <pump duration = "300">0.75 mL in 3 min</pump>
 
-	    <!-- Incubate with DAPI (5 min) -->
-	    <valve duration = "10">Set Hyb 24</valve>
-        <pump duration = "300">0.75 mL in 3 min</pump>
+	    <!-- flow image buffer (4.5 min)-->
+		<valve duration = "10">Image Buffer</valve>
+		<pump duration = "270">1.5 mL in 3 min</pump>
 	</protocol>
 
 	<protocol name = "Hybridize Adaptor 5">
@@ -841,9 +841,9 @@
 		<valve duration = "10">Wash Buffer</valve>
         <pump duration = "300">0.75 mL in 3 min</pump>
 
-	    <!-- Incubate with DAPI (5 min) -->
-	    <valve duration = "10">Set Hyb 24</valve>
-        <pump duration = "300">0.75 mL in 3 min</pump>
+	    <!-- flow image buffer (4.5 min)-->
+		<valve duration = "10">Image Buffer</valve>
+		<pump duration = "270">1.5 mL in 3 min</pump>
 	</protocol>
 
 	<protocol name = "Hybridize Adaptor 6">
@@ -864,9 +864,9 @@
 		<valve duration = "10">Wash Buffer</valve>
         <pump duration = "300">0.75 mL in 3 min</pump>
 
-	    <!-- Incubate with DAPI (5 min) -->
-	    <valve duration = "10">Set Hyb 24</valve>
-        <pump duration = "300">0.75 mL in 3 min</pump>
+	    <!-- flow image buffer (4.5 min)-->
+		<valve duration = "10">Image Buffer</valve>
+		<pump duration = "270">1.5 mL in 3 min</pump>
 	</protocol>
 
 	<protocol name = "Hybridize Adaptor 7">
@@ -887,9 +887,9 @@
 		<valve duration = "10">Wash Buffer</valve>
         <pump duration = "300">0.75 mL in 3 min</pump>
 
-	    <!-- Incubate with DAPI (5 min) -->
-	    <valve duration = "10">Set Hyb 24</valve>
-        <pump duration = "300">0.75 mL in 3 min</pump>
+	    <!-- flow image buffer (4.5 min)-->
+		<valve duration = "10">Image Buffer</valve>
+		<pump duration = "270">1.5 mL in 3 min</pump>
 	</protocol>
 
 	<protocol name = "Hybridize Adaptor 8">
@@ -910,9 +910,9 @@
 		<valve duration = "10">Wash Buffer</valve>
         <pump duration = "300">0.75 mL in 3 min</pump>
 
-	    <!-- Incubate with DAPI (5 min) -->
-	    <valve duration = "10">Set Hyb 24</valve>
-        <pump duration = "300">0.75 mL in 3 min</pump>
+	    <!-- flow image buffer (4.5 min)-->
+		<valve duration = "10">Image Buffer</valve>
+		<pump duration = "270">1.5 mL in 3 min</pump>
 	</protocol>
 
 	<protocol name = "Hybridize Adaptor 9">
@@ -933,9 +933,9 @@
 		<valve duration = "10">Wash Buffer</valve>
         <pump duration = "300">0.75 mL in 3 min</pump>
 
-	    <!-- Incubate with DAPI (5 min) -->
-	    <valve duration = "10">Set Hyb 24</valve>
-        <pump duration = "300">0.75 mL in 3 min</pump>
+	    <!-- flow image buffer (4.5 min)-->
+		<valve duration = "10">Image Buffer</valve>
+		<pump duration = "270">1.5 mL in 3 min</pump>
 	</protocol>
 
 	<protocol name = "Hybridize Adaptor 10">
@@ -956,9 +956,9 @@
 		<valve duration = "10">Wash Buffer</valve>
         <pump duration = "300">0.75 mL in 3 min</pump>
 
-	    <!-- Incubate with DAPI (5 min) -->
-	    <valve duration = "10">Set Hyb 24</valve>
-        <pump duration = "300">0.75 mL in 3 min</pump>
+	    <!-- flow image buffer (4.5 min)-->
+		<valve duration = "10">Image Buffer</valve>
+		<pump duration = "270">1.5 mL in 3 min</pump>
 	</protocol>
 
 	<protocol name = "Hybridize Adaptor 11">
@@ -979,9 +979,9 @@
 		<valve duration = "10">Wash Buffer</valve>
         <pump duration = "300">0.75 mL in 3 min</pump>
 
-	    <!-- Incubate with DAPI (5 min) -->
-	    <valve duration = "10">Set Hyb 24</valve>
-        <pump duration = "300">0.75 mL in 3 min</pump>
+	    <!-- flow image buffer (4.5 min)-->
+		<valve duration = "10">Image Buffer</valve>
+		<pump duration = "270">1.5 mL in 3 min</pump>
 	</protocol>
 
 	<protocol name = "Hybridize Adaptor 12">
@@ -1002,9 +1002,9 @@
 		<valve duration = "10">Wash Buffer</valve>
         <pump duration = "300">0.75 mL in 3 min</pump>
 
-	    <!-- Incubate with DAPI (5 min) -->
-	    <valve duration = "10">Set Hyb 24</valve>
-        <pump duration = "300">0.75 mL in 3 min</pump>
+	    <!-- flow image buffer (4.5 min)-->
+		<valve duration = "10">Image Buffer</valve>
+		<pump duration = "270">1.5 mL in 3 min</pump>
 	</protocol>
 
 	
