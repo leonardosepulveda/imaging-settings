@@ -757,7 +757,7 @@
 	<protocol name = "Hybridize Adaptor 2">
 
 		<!-- flow adaptor (11 min) -->
-		<valve duration = "10">Set Hyb 1</valve>
+		<valve duration = "10">Set Hyb 2</valve>
 		<pump duration = "660">0.75 mL in 3 min</pump>
 		
 		<!-- Wash (5 min) -->
@@ -780,7 +780,7 @@
 	<protocol name = "Hybridize Adaptor 3">
 
 		<!-- flow adaptor (11 min) -->
-		<valve duration = "10">Set Hyb 1</valve>
+		<valve duration = "10">Set Hyb 3</valve>
 		<pump duration = "660">0.75 mL in 3 min</pump>
 		
 		<!-- Wash (5 min) -->
@@ -803,7 +803,7 @@
 	<protocol name = "Hybridize Adaptor 4">
 
 		<!-- flow adaptor (11 min) -->
-		<valve duration = "10">Set Hyb 1</valve>
+		<valve duration = "10">Set Hyb 4</valve>
 		<pump duration = "660">0.75 mL in 3 min</pump>
 		
 		<!-- Wash (5 min) -->
@@ -826,7 +826,7 @@
 	<protocol name = "Hybridize Adaptor 5">
 
 		<!-- flow adaptor (11 min) -->
-		<valve duration = "10">Set Hyb 1</valve>
+		<valve duration = "10">Set Hyb 5</valve>
 		<pump duration = "660">0.75 mL in 3 min</pump>
 		
 		<!-- Wash (5 min) -->
@@ -849,7 +849,7 @@
 	<protocol name = "Hybridize Adaptor 6">
 
 		<!-- flow adaptor (11 min) -->
-		<valve duration = "10">Set Hyb 1</valve>
+		<valve duration = "10">Set Hyb 6</valve>
 		<pump duration = "660">0.75 mL in 3 min</pump>
 		
 		<!-- Wash (5 min) -->
@@ -872,7 +872,7 @@
 	<protocol name = "Hybridize Adaptor 7">
 
 		<!-- flow adaptor (11 min) -->
-		<valve duration = "10">Set Hyb 1</valve>
+		<valve duration = "10">Set Hyb 7</valve>
 		<pump duration = "660">0.75 mL in 3 min</pump>
 		
 		<!-- Wash (5 min) -->
@@ -895,7 +895,7 @@
 	<protocol name = "Hybridize Adaptor 8">
 
 		<!-- flow adaptor (11 min) -->
-		<valve duration = "10">Set Hyb 1</valve>
+		<valve duration = "10">Set Hyb 8</valve>
 		<pump duration = "660">0.75 mL in 3 min</pump>
 		
 		<!-- Wash (5 min) -->
@@ -918,7 +918,7 @@
 	<protocol name = "Hybridize Adaptor 9">
 
 		<!-- flow adaptor (11 min) -->
-		<valve duration = "10">Set Hyb 1</valve>
+		<valve duration = "10">Set Hyb 9</valve>
 		<pump duration = "660">0.75 mL in 3 min</pump>
 		
 		<!-- Wash (5 min) -->
@@ -941,7 +941,7 @@
 	<protocol name = "Hybridize Adaptor 10">
 
 		<!-- flow adaptor (11 min) -->
-		<valve duration = "10">Set Hyb 1</valve>
+		<valve duration = "10">Set Hyb 10</valve>
 		<pump duration = "660">0.75 mL in 3 min</pump>
 		
 		<!-- Wash (5 min) -->
@@ -964,7 +964,7 @@
 	<protocol name = "Hybridize Adaptor 11">
 
 		<!-- flow adaptor (11 min) -->
-		<valve duration = "10">Set Hyb 1</valve>
+		<valve duration = "10">Set Hyb 11</valve>
 		<pump duration = "660">0.75 mL in 3 min</pump>
 		
 		<!-- Wash (5 min) -->
@@ -987,7 +987,7 @@
 	<protocol name = "Hybridize Adaptor 12">
 
 		<!-- flow adaptor (11 min) -->
-		<valve duration = "10">Set Hyb 1</valve>
+		<valve duration = "10">Set Hyb 12</valve>
 		<pump duration = "660">0.75 mL in 3 min</pump>
 		
 		<!-- Wash (5 min) -->
