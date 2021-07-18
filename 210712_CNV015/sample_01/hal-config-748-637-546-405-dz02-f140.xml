@@ -28,7 +28,7 @@
 
   <!-- illumination settings -->
   <illumination>
-    <default_power type="custom">1.000,0.500,0.050,0.050,0.001</default_power>
+    <default_power type="custom">1.000,0.500,0.050,0.050,0.01</default_power>
     <shutters type="string">shutter-config-748-637-546-405-f140.xml</shutters>
     <on_off_state type="custom">False,False,False,False,False</on_off_state>
     <power_buttons type="custom">[[['Max', 1.0], ['Low', 0.1]], [['Max', 1.0], ['Low', 0.1]], [['Max', 1.0], ['Low', 0.1]], [['Max', 1.0], ['Low', 0.1]], [['Max', 1.0], ['Low', 0.001]]]</power_buttons>
