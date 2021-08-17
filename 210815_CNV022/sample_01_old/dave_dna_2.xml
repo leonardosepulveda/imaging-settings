@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<recipe>
+
+<command_sequence>
+
+  <valve_protocol>Flow STORM Buffer</valve_protocol>
+  <change_directory>D:\Pu\20210814-IMR90_SI16-chr21-5kb\H0C1</change_directory>
+  <wakeup>5000</wakeup>
+  <loop name = "Position Loop Zscan" increment = "name">
+    <item name = "Zscan_750_647_488_405_s35_n200"></item>
+  </loop>
+  <delay>2000</delay>
+  <copy_directory>
+    <source_path>D:\Pu\20210814-IMR90_SI16-chr21-5kb\H0C1</source_path>
+    <target_path>\\simon\Raw_data_3\lsepulvedaduran\data\210815_CNV022_data\sample_01_old\H0C1</target_path>
+    <delete_source>True</delete_source>
+  </copy_directory>
+
+	<!--Hyb 1 for c2
+	<valve_protocol>Flow TCEP</valve_protocol>
+	<valve_protocol>Hybridize 2</valve_protocol>
+	<delay>600000</delay>
+	<valve_protocol>Short Wash</valve_protocol>
+	<valve_protocol>Flow Readouts</valve_protocol>
+	<delay>60000</delay>
+	<change_directory>D:\Pu\20210814-IMR90_SI16-chr21-5kb\H1C2</change_directory>
+	<wakeup>5000</wakeup>
+	<loop name="Position Loop Zscan" increment="name">
+		<item name="Zscan_750_647_488_s35_n200"> </item>
+	</loop>
+	<delay>2000</delay>
+	<copy_directory>
+		<source_path>D:\Pu\20210814-IMR90_SI16-chr21-5kb\H1C2</source_path>
+		<target_path>\\simon\Raw_data_3\lsepulvedaduran\data\210815_CNV022_data\sample_01_old\H1C2</target_path>
+		<delete_source>True</delete_source>
+	</copy_directory>
+    -->
+	<!--Hyb 2 for c3-->
+	<valve_protocol>Flow TCEP</valve_protocol>
+	<valve_protocol>Hybridize 3</valve_protocol>
+	<delay>600000</delay>
+	<valve_protocol>Short Wash</valve_protocol>
+	<valve_protocol>Flow Readouts</valve_protocol>
+	<delay>60000</delay>
+	<change_directory>D:\Pu\20210814-IMR90_SI16-chr21-5kb\H2C3</change_directory>
+	<wakeup>5000</wakeup>
+	<loop name="Position Loop Zscan" increment="name">
+		<item name="Zscan_750_647_488_s35_n200"> </item>
+	</loop>
+	<delay>2000</delay>
+	<copy_directory>
+		<source_path>D:\Pu\20210814-IMR90_SI16-chr21-5kb\H2C3</source_path>
+		<target_path>\\simon\Raw_data_3\lsepulvedaduran\data\210815_CNV022_data\sample_01_old\H2C3</target_path>
+		<delete_source>True</delete_source>
+	</copy_directory>
+	<!--Hyb 3 for c4-->
+	<valve_protocol>Flow TCEP</valve_protocol>
+	<valve_protocol>Hybridize 4</valve_protocol>
+	<delay>600000</delay>
+	<valve_protocol>Short Wash</valve_protocol>
+	<valve_protocol>Flow Readouts</valve_protocol>
+	<delay>60000</delay>
+	<change_directory>D:\Pu\20210814-IMR90_SI16-chr21-5kb\H3C4</change_directory>
+	<wakeup>5000</wakeup>
+	<loop name="Position Loop Zscan" increment="name">
+		<item name="Zscan_750_647_488_s35_n200"> </item>
+	</loop>
+	<delay>2000</delay>
+	<copy_directory>
+		<source_path>D:\Pu\20210814-IMR90_SI16-chr21-5kb\H3C4</source_path>
+		<target_path>\\simon\Raw_data_3\lsepulvedaduran\data\210815_CNV022_data\sample_01_old\H3C4</target_path>
+		<delete_source>True</delete_source>
+	</copy_directory>
+	<!--Hyb 4 for c5-->
+	<valve_protocol>Flow TCEP</valve_protocol>
+	<valve_protocol>Hybridize 5</valve_protocol>
+	<delay>600000</delay>
+	<valve_protocol>Short Wash</valve_protocol>
+	<valve_protocol>Flow Readouts</valve_protocol>
+	<delay>60000</delay>
+	<change_directory>D:\Pu\20210814-IMR90_SI16-chr21-5kb\H4C5</change_directory>
+	<wakeup>5000</wakeup>
+	<loop name="Position Loop Zscan" increment="name">
+		<item name="Zscan_750_647_488_s35_n200"> </item>
+	</loop>
+	<delay>2000</delay>
+	<copy_directory>
+		<source_path>D:\Pu\20210814-IMR90_SI16-chr21-5kb\H4C5</source_path>
+		<target_path>\\simon\Raw_data_3\lsepulvedaduran\data\210815_CNV022_data\sample_01_old\H4C5</target_path>
+		<delete_source>True</delete_source>
+	</copy_directory>
+	<!--Hyb 5 for c6-->
+	<valve_protocol>Flow TCEP</valve_protocol>
+	<valve_protocol>Hybridize 6</valve_protocol>
+	<delay>600000</delay>
+	<valve_protocol>Short Wash</valve_protocol>
+	<valve_protocol>Flow Readouts</valve_protocol>
+	<delay>60000</delay>
+	<change_directory>D:\Pu\20210814-IMR90_SI16-chr21-5kb\H5C6</change_directory>
+	<wakeup>5000</wakeup>
+	<loop name="Position Loop Zscan" increment="name">
+		<item name="Zscan_750_647_488_s35_n200"> </item>
+	</loop>
+	<delay>2000</delay>
+	<copy_directory>
+		<source_path>D:\Pu\20210814-IMR90_SI16-chr21-5kb\H5C6</source_path>
+		<target_path>\\simon\Raw_data_3\lsepulvedaduran\data\210815_CNV022_data\sample_01_old\H5C6</target_path>
+		<delete_source>True</delete_source>
+	</copy_directory>
+	<!--Hyb 6 for c7-->
+	<valve_protocol>Flow TCEP</valve_protocol>
+	<valve_protocol>Hybridize 7</valve_protocol>
+	<delay>600000</delay>
+	<valve_protocol>Short Wash</valve_protocol>
+	<valve_protocol>Flow Readouts</valve_protocol>
+	<delay>60000</delay>
+	<change_directory>D:\Pu\20210814-IMR90_SI16-chr21-5kb\H6C7</change_directory>
+	<wakeup>5000</wakeup>
+	<loop name="Position Loop Zscan" increment="name">
+		<item name="Zscan_750_647_488_s35_n200"> </item>
+	</loop>
+	<delay>2000</delay>
+	<copy_directory>
+		<source_path>D:\Pu\20210814-IMR90_SI16-chr21-5kb\H6C7</source_path>
+		<target_path>\\simon\Raw_data_3\lsepulvedaduran\data\210815_CNV022_data\sample_01_old\H6C7</target_path>
+		<delete_source>True</delete_source>
+	</copy_directory>
+	<!--Hyb 7 for c8-->
+	<valve_protocol>Flow TCEP</valve_protocol>
+	<valve_protocol>Hybridize 8</valve_protocol>
+	<delay>600000</delay>
+	<valve_protocol>Short Wash</valve_protocol>
+	<valve_protocol>Flow Readouts</valve_protocol>
+	<delay>60000</delay>
+	<change_directory>D:\Pu\20210814-IMR90_SI16-chr21-5kb\H7C8</change_directory>
+	<wakeup>5000</wakeup>
+	<loop name="Position Loop Zscan" increment="name">
+		<item name="Zscan_750_647_488_s35_n200"> </item>
+	</loop>
+	<delay>2000</delay>
+	<copy_directory>
+		<source_path>D:\Pu\20210814-IMR90_SI16-chr21-5kb\H7C8</source_path>
+		<target_path>\\simon\Raw_data_3\lsepulvedaduran\data\210815_CNV022_data\sample_01_old\H7C8</target_path>
+		<delete_source>True</delete_source>
+	</copy_directory>
+
+
+</command_sequence>
+
+<item name = "Bleach_740_647_s30">
+  <movie>
+    <name increment = "Yes">bleach</name>
+        <overwrite>True</overwrite>
+    <length>30</length>
+    <parameters>Bleach_740_647_s30</parameters>
+    <delay>1000</delay>
+    <check_focus>
+        <num_focus_checks>30</num_focus_checks>
+        <focus_scan/>
+    </check_focus>
+    <variable_entry name = "Position Loop Zscan"></variable_entry>
+  </movie>
+</item>
+
+<item name = "Zscan_750_647_561_488_405_s60_n200">
+  <movie>
+    <name increment = "Yes">Conv_zscan</name>
+        <overwrite>True</overwrite>
+    <length>300</length>
+    <parameters>Conv_Zscan_750_647_561_488_405_s60_n200_10Hz</parameters>
+    <delay>2000</delay>
+    <check_focus>
+        <num_focus_checks>30</num_focus_checks>
+        <focus_scan/>
+    </check_focus>
+    <variable_entry name = "Position Loop Zscan"></variable_entry>
+  </movie>
+</item>
+
+<item name = "Zscan_750_647_561_488_s60_n200">
+  <movie>
+    <name increment = "Yes">Conv_zscan</name>
+        <overwrite>True</overwrite>
+    <length>240</length>
+    <parameters>Conv_Zscan_750_647_561_488_s60_n200_10Hz</parameters>
+    <delay>2000</delay>
+    <check_focus>
+        <num_focus_checks>30</num_focus_checks>
+        <focus_scan/>
+    </check_focus>
+    <variable_entry name = "Position Loop Zscan"></variable_entry>
+  </movie>
+</item>
+
+<item name = "Zscan_750_647_488_405_s60_n200">
+  <movie>
+    <name increment = "Yes">Conv_zscan</name>
+        <overwrite>True</overwrite>
+    <length>240</length>
+    <parameters>Conv_Zscan_750_647_488_405_s60_n200_10Hz</parameters>
+    <delay>2000</delay>
+    <check_focus>
+        <num_focus_checks>30</num_focus_checks>
+        <focus_scan/>
+    </check_focus>
+    <variable_entry name = "Position Loop Zscan"></variable_entry>
+  </movie>
+</item>
+
+<item name = "Zscan_750_647_488_s60_n200">
+  <movie>
+    <name increment = "Yes">Conv_zscan</name>
+        <overwrite>True</overwrite>
+    <length>180</length>
+    <parameters>Conv_Zscan_750_647_488_s60_n200_10Hz</parameters>
+    <delay>2000</delay>
+    <check_focus>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+    </check_focus>
+    <variable_entry name = "Position Loop Zscan"></variable_entry>
+  </movie>
+</item>
+
+<item name = "Zscan_750_647_488_405_s35_n200">
+  <movie>
+    <name increment = "Yes">Conv_zscan</name>
+        <overwrite>True</overwrite>
+    <length>140</length>
+    <parameters>Conv_Zscan_750_647_488_405_s35_n200_10Hz</parameters>
+    <delay>2000</delay>
+    <check_focus>
+        <num_focus_checks>30</num_focus_checks>
+        <focus_scan/>
+    </check_focus>
+    <variable_entry name = "Position Loop Zscan"></variable_entry>
+  </movie>
+</item>
+
+<item name = "Zscan_750_647_488_s35_n200">
+  <movie>
+    <name increment = "Yes">Conv_zscan</name>
+        <overwrite>True</overwrite>
+    <length>105</length>
+    <parameters>Conv_Zscan_750_647_488_s35_n200_10Hz</parameters>
+    <delay>2000</delay>
+    <check_focus>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+    </check_focus>
+    <variable_entry name = "Position Loop Zscan"></variable_entry>
+  </movie>
+</item>
+
+<loop_variable name = "Position Loop Zscan">
+   <file_path>positions_CNV018_14x21.txt</file_path>
+</loop_variable>
+
+</recipe>
+

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<recipe>
+
+<command_sequence>
+  <valve_protocol>Hybridize 9</valve_protocol>
+  <valve_protocol>Incubate 10min</valve_protocol>
+  <valve_protocol>Flow Readouts and DAPI 32</valve_protocol>
+
+
+
+</command_sequence>
+
+<item name = "Bleach_740_647_s30">
+  <movie>
+    <name increment = "Yes">bleach</name>
+        <overwrite>True</overwrite>
+    <length>30</length>
+    <parameters>Bleach_740_647_s30</parameters>
+    <delay>1000</delay>
+    <check_focus>
+        <num_focus_checks>30</num_focus_checks>
+        <focus_scan/>
+    </check_focus>
+    <variable_entry name = "Position Loop Zscan"></variable_entry>
+  </movie>
+</item>
+
+<item name = "Zscan_750_647_561_561_405_s60_n200">
+  <movie>
+    <name increment = "Yes">Conv_zscan</name>
+        <overwrite>True</overwrite>
+    <length>300</length>
+    <parameters>Conv_Zscan_750_647_561_561_405_s60_n200_10Hz</parameters>
+    <delay>2000</delay>
+    <check_focus>
+        <num_focus_checks>30</num_focus_checks>
+        <focus_scan/>
+    </check_focus>
+    <variable_entry name = "Position Loop Zscan"></variable_entry>
+  </movie>
+</item>
+
+<item name = "Zscan_750_647_561_561_s60_n200">
+  <movie>
+    <name increment = "Yes">Conv_zscan</name>
+        <overwrite>True</overwrite>
+    <length>240</length>
+    <parameters>Conv_Zscan_750_647_561_561_s60_n200_10Hz</parameters>
+    <delay>2000</delay>
+    <check_focus>
+        <num_focus_checks>30</num_focus_checks>
+        <focus_scan/>
+    </check_focus>
+    <variable_entry name = "Position Loop Zscan"></variable_entry>
+  </movie>
+</item>
+
+<item name = "Zscan_750_647_561_405_s60_n200">
+  <movie>
+    <name increment = "Yes">Conv_zscan</name>
+        <overwrite>True</overwrite>
+    <length>240</length>
+    <parameters>Conv_Zscan_750_647_561_405_s60_n200_10Hz</parameters>
+    <delay>2000</delay>
+    <check_focus>
+        <num_focus_checks>30</num_focus_checks>
+        <focus_scan/>
+    </check_focus>
+    <variable_entry name = "Position Loop Zscan"></variable_entry>
+  </movie>
+</item>
+
+<item name = "Zscan_750_647_561_s60_n200">
+  <movie>
+    <name increment = "Yes">Conv_zscan</name>
+        <overwrite>True</overwrite>
+    <length>180</length>
+    <parameters>Conv_Zscan_750_647_561_s60_n200_10Hz</parameters>
+    <delay>2000</delay>
+    <check_focus>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+    </check_focus>
+    <variable_entry name = "Position Loop Zscan"></variable_entry>
+  </movie>
+</item>
+
+<item name = "Zscan_750_647_561_405_s35_n200">
+  <movie>
+    <name increment = "Yes">Conv_zscan</name>
+        <overwrite>True</overwrite>
+    <length>140</length>
+    <parameters>Conv_Zscan_750_647_561_405_s35_n200_10Hz</parameters>
+    <delay>2000</delay>
+    <check_focus>
+        <num_focus_checks>30</num_focus_checks>
+        <focus_scan/>
+    </check_focus>
+    <variable_entry name = "Position Loop Zscan"></variable_entry>
+  </movie>
+</item>
+
+<item name = "Zscan_750_647_561_s35_n200">
+  <movie>
+    <name increment = "Yes">Conv_zscan</name>
+        <overwrite>True</overwrite>
+    <length>105</length>
+    <parameters>Conv_Zscan_750_647_561_s35_n200_10Hz</parameters>
+    <delay>2000</delay>
+    <check_focus>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+    </check_focus>
+    <variable_entry name = "Position Loop Zscan"></variable_entry>
+  </movie>
+</item>
+
+<loop_variable name = "Position Loop Zscan">
+   <file_path>positions_CNV018_14x21.txt</file_path>
+</loop_variable>
+
+</recipe>
+
