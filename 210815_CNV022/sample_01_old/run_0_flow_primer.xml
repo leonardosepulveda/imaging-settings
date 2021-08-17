@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<sequence>
+  
+
+  <DAValveProtocol>Hybridize 9</DAValveProtocol>
+  <DAValveProtocol>Incubate 10min</DAValveProtocol>
+  <DAValveProtocol>Flow Readouts and DAPI 32</DAValveProtocol>
+</sequence>
