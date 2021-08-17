@@ -47,32 +47,39 @@
 
 	<loop_variable name = "Hybridize Loop 1">
 		<value>
-			<valve_protocol>Cleave Adaptors</valve_protocol>
+			<valve_protocol>Cleave Readouts</valve_protocol>
 			<valve_protocol>Hybridize Adaptor 2</valve_protocol>
+			<valve_protocol>Wash adaptors, Flow readouts, Wash readouts, Flow image buffer</valve_protocol>
 		</value>
 		<value>
-			<valve_protocol>Cleave Adaptors</valve_protocol>
+			<valve_protocol>Cleave Readouts</valve_protocol>
 			<valve_protocol>Hybridize Adaptor 3</valve_protocol>
+			<valve_protocol>Wash adaptors, Flow readouts, Wash readouts, Flow image buffer</valve_protocol>
 		</value>
 		<value>
-			<valve_protocol>Cleave Adaptors</valve_protocol>
+			<valve_protocol>Cleave Readouts</valve_protocol>
 			<valve_protocol>Hybridize Adaptor 4</valve_protocol>
+			<valve_protocol>Wash adaptors, Flow readouts, Wash readouts, Flow image buffer</valve_protocol>
 		</value>
 		<value>
-			<valve_protocol>Cleave Adaptors</valve_protocol>
+			<valve_protocol>Cleave Readouts</valve_protocol>
 			<valve_protocol>Hybridize Adaptor 5</valve_protocol>
+			<valve_protocol>Wash adaptors, Flow readouts, Wash readouts, Flow image buffer</valve_protocol>
 		</value>
 		<value>
-			<valve_protocol>Cleave Adaptors</valve_protocol>
+			<valve_protocol>Cleave Readouts</valve_protocol>
 			<valve_protocol>Hybridize Adaptor 6</valve_protocol>
+			<valve_protocol>Wash adaptors, Flow readouts, Wash readouts, Flow image buffer</valve_protocol>
 		</value>
 		<value>
-			<valve_protocol>Cleave Adaptors</valve_protocol>
+			<valve_protocol>Cleave Readouts</valve_protocol>
 			<valve_protocol>Hybridize Adaptor 7</valve_protocol>
+			<valve_protocol>Wash adaptors, Flow readouts, Wash readouts, Flow image buffer</valve_protocol>
 		</value>
 		<value>
-			<valve_protocol>Cleave Adaptors</valve_protocol>
+			<valve_protocol>Cleave Readouts</valve_protocol>
 			<valve_protocol>Hybridize Adaptor 8</valve_protocol>
+			<valve_protocol>Wash adaptors, Flow readouts, Wash readouts, Flow image buffer</valve_protocol>
 		</value>
 	</loop_variable>
 </recipe>
