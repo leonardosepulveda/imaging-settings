@@ -57,22 +57,6 @@
 		<value>
 			<valve_protocol>Cleave Adaptors</valve_protocol>
 			<valve_protocol>Hybridize Adaptor 4</valve_protocol>
-		</value>
-		<value>
-			<valve_protocol>Cleave Adaptors</valve_protocol>
-			<valve_protocol>Hybridize Adaptor 5</valve_protocol>
-		</value>
-		<value>
-			<valve_protocol>Cleave Adaptors</valve_protocol>
-			<valve_protocol>Hybridize Adaptor 6</valve_protocol>
-		</value>
-		<value>
-			<valve_protocol>Cleave Adaptors</valve_protocol>
-			<valve_protocol>Hybridize Adaptor 7</valve_protocol>
-		</value>
-		<value>
-			<valve_protocol>Cleave Adaptors</valve_protocol>
-			<valve_protocol>Hybridize Adaptor 8</valve_protocol>
-		</value>
+		</value>	
 	</loop_variable>
 </recipe>
