@@ -59,6 +59,7 @@
 		<value>
 			<valve_protocol>Cleave Readouts</valve_protocol>
 			<valve_protocol>Hybridize Adaptor 4</valve_protocol>
+<<<<<<< HEAD:210815_CNV022/sample_01/dave-config-8hyb-748-637-488-405.xml
 			<valve_protocol>Wash adaptors, Flow readouts, Wash readouts, Flow image buffer</valve_protocol>
 		</value>
 		<value>
@@ -81,5 +82,8 @@
 			<valve_protocol>Hybridize Adaptor 8</valve_protocol>
 			<valve_protocol>Wash adaptors, Flow readouts, Wash readouts, Flow image buffer</valve_protocol>
 		</value>
+=======
+		</value>	
+>>>>>>> e14f10c33844e0cc2c4ed43b21a2bf112e1934b8:210815_CNV022/sample_01/dave-config-3hyb-748-637-488-405.xml
 	</loop_variable>
 </recipe>
