@@ -3,23 +3,23 @@
   <oversampling>1</oversampling>
   <frames>140</frames>
   
-  <!-- 748, 637, 546, 405, -2.0 um-->
+  <!-- 637, 546, 488, 405, -2.0 um-->
   <event>
-    <channel>0</channel>
+    <channel>1</channel>
     <power>1</power>
     <on>0</on>
     <off>1</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>1</channel>
+    <channel>2</channel>
     <power>1</power>
     <on>1</on>
     <off>2</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>2</channel>
+    <channel>3</channel>
     <power>1</power>
     <on>2</on>
     <off>3</off>
@@ -33,23 +33,23 @@
     <color>255,255,255</color>
   </event>
 
-<!-- 748, 637, 546, 405, -1.8 um-->
+<!-- 637, 546, 488, 405, -1.8 um-->
   <event>
-    <channel>0</channel>
+    <channel>1</channel>
     <power>1</power>
     <on>4</on>
     <off>5</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>1</channel>
+    <channel>2</channel>
     <power>1</power>
     <on>5</on>
     <off>6</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>2</channel>
+    <channel>3</channel>
     <power>1</power>
     <on>6</on>
     <off>7</off>
@@ -63,23 +63,23 @@
     <color>255,255,255</color>
   </event>
 
-<!-- 748, 637, 546, 405, -1.6 um-->
+<!-- 637, 546, 488, 405, -1.6 um-->
   <event>
-    <channel>0</channel>
+    <channel>1</channel>
     <power>1</power>
     <on>8</on>
     <off>9</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>1</channel>
+    <channel>2</channel>
     <power>1</power>
     <on>9</on>
     <off>10</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>2</channel>
+    <channel>3</channel>
     <power>1</power>
     <on>10</on>
     <off>11</off>
@@ -93,23 +93,23 @@
     <color>255,255,255</color>
   </event>
 
-<!-- 748, 637, 546, 405, -1.4 um-->
+<!-- 637, 546, 488, 405, -1.4 um-->
   <event>
-    <channel>0</channel>
+    <channel>1</channel>
     <power>1</power>
     <on>12</on>
     <off>13</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>1</channel>
+    <channel>2</channel>
     <power>1</power>
     <on>13</on>
     <off>14</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>2</channel>
+    <channel>3</channel>
     <power>1</power>
     <on>14</on>
     <off>15</off>
@@ -123,23 +123,23 @@
     <color>255,255,255</color>
   </event>
 
-<!-- 748, 637, 546, 405, -1.2 um-->
+<!-- 637, 546, 488, 405, -1.2 um-->
   <event>
-    <channel>0</channel>
+    <channel>1</channel>
     <power>1</power>
     <on>16</on>
     <off>17</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>1</channel>
+    <channel>2</channel>
     <power>1</power>
     <on>17</on>
     <off>18</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>2</channel>
+    <channel>3</channel>
     <power>1</power>
     <on>18</on>
     <off>19</off>
@@ -153,23 +153,23 @@
     <color>255,255,255</color>
   </event>
 
-<!-- 748, 637, 546, 405, -1.0 um-->
+<!-- 637, 546, 488, 405, -1.0 um-->
   <event>
-    <channel>0</channel>
+    <channel>1</channel>
     <power>1</power>
     <on>20</on>
     <off>21</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>1</channel>
+    <channel>2</channel>
     <power>1</power>
     <on>21</on>
     <off>22</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>2</channel>
+    <channel>3</channel>
     <power>1</power>
     <on>22</on>
     <off>23</off>
@@ -183,23 +183,23 @@
     <color>255,255,255</color>
   </event>
 
-<!-- 748, 637, 546, 405, -0.8 um-->
+<!-- 637, 546, 488, 405, -0.8 um-->
   <event>
-    <channel>0</channel>
+    <channel>1</channel>
     <power>1</power>
     <on>24</on>
     <off>25</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>1</channel>
+    <channel>2</channel>
     <power>1</power>
     <on>25</on>
     <off>26</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>2</channel>
+    <channel>3</channel>
     <power>1</power>
     <on>26</on>
     <off>27</off>
@@ -213,23 +213,23 @@
     <color>255,255,255</color>
   </event>
 
-<!-- 748, 637, 546, 405, -0.6 um-->
+<!-- 637, 546, 488, 405, -0.6 um-->
   <event>
-    <channel>0</channel>
+    <channel>1</channel>
     <power>1</power>
     <on>28</on>
     <off>29</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>1</channel>
+    <channel>2</channel>
     <power>1</power>
     <on>29</on>
     <off>30</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>2</channel>
+    <channel>3</channel>
     <power>1</power>
     <on>30</on>
     <off>31</off>
@@ -243,23 +243,23 @@
     <color>255,255,255</color>
   </event>
 
-<!-- 748, 637, 546, 405, -0.4 um-->
+<!-- 637, 546, 488, 405, -0.4 um-->
   <event>
-    <channel>0</channel>
+    <channel>1</channel>
     <power>1</power>
     <on>32</on>
     <off>33</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>1</channel>
+    <channel>2</channel>
     <power>1</power>
     <on>33</on>
     <off>34</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>2</channel>
+    <channel>3</channel>
     <power>1</power>
     <on>34</on>
     <off>35</off>
@@ -273,23 +273,23 @@
     <color>255,255,255</color>
   </event>
 
-<!-- 748, 637, 546, 405, -0.2 um-->
+<!-- 637, 546, 488, 405, -0.2 um-->
   <event>
-    <channel>0</channel>
+    <channel>1</channel>
     <power>1</power>
     <on>36</on>
     <off>37</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>1</channel>
+    <channel>2</channel>
     <power>1</power>
     <on>37</on>
     <off>38</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>2</channel>
+    <channel>3</channel>
     <power>1</power>
     <on>38</on>
     <off>39</off>
@@ -303,23 +303,23 @@
     <color>255,255,255</color>
   </event>
 
-<!-- 748, 637, 546, 405, -0.0 um-->
+<!-- 637, 546, 488, 405, -0.0 um-->
   <event>
-    <channel>0</channel>
+    <channel>1</channel>
     <power>1</power>
     <on>40</on>
     <off>41</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>1</channel>
+    <channel>2</channel>
     <power>1</power>
     <on>41</on>
     <off>42</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>2</channel>
+    <channel>3</channel>
     <power>1</power>
     <on>42</on>
     <off>43</off>
@@ -333,23 +333,23 @@
     <color>255,255,255</color>
   </event>
 
-<!-- 748, 637, 546, 405, 0.2 um-->
+<!-- 637, 546, 488, 405, 0.2 um-->
   <event>
-    <channel>0</channel>
+    <channel>1</channel>
     <power>1</power>
     <on>44</on>
     <off>45</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>1</channel>
+    <channel>2</channel>
     <power>1</power>
     <on>45</on>
     <off>46</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>2</channel>
+    <channel>3</channel>
     <power>1</power>
     <on>46</on>
     <off>47</off>
@@ -363,23 +363,23 @@
     <color>255,255,255</color>
   </event>
 
-<!-- 748, 637, 546, 405, 0.4 um-->
+<!-- 637, 546, 488, 405, 0.4 um-->
   <event>
-    <channel>0</channel>
+    <channel>1</channel>
     <power>1</power>
     <on>48</on>
     <off>49</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>1</channel>
+    <channel>2</channel>
     <power>1</power>
     <on>49</on>
     <off>50</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>2</channel>
+    <channel>3</channel>
     <power>1</power>
     <on>50</on>
     <off>51</off>
@@ -393,23 +393,23 @@
     <color>255,255,255</color>
   </event>
 
-<!-- 748, 637, 546, 405, 0.6 um-->
+<!-- 637, 546, 488, 405, 0.6 um-->
   <event>
-    <channel>0</channel>
+    <channel>1</channel>
     <power>1</power>
     <on>52</on>
     <off>53</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>1</channel>
+    <channel>2</channel>
     <power>1</power>
     <on>53</on>
     <off>54</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>2</channel>
+    <channel>3</channel>
     <power>1</power>
     <on>54</on>
     <off>55</off>
@@ -423,23 +423,23 @@
     <color>255,255,255</color>
   </event>
 
-<!-- 748, 637, 546, 405, 0.8 um-->
+<!-- 637, 546, 488, 405, 0.8 um-->
   <event>
-    <channel>0</channel>
+    <channel>1</channel>
     <power>1</power>
     <on>56</on>
     <off>57</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>1</channel>
+    <channel>2</channel>
     <power>1</power>
     <on>57</on>
     <off>58</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>2</channel>
+    <channel>3</channel>
     <power>1</power>
     <on>58</on>
     <off>59</off>
@@ -453,23 +453,23 @@
     <color>255,255,255</color>
   </event>
 
-<!-- 748, 637, 546, 405, 1.0 um-->
+<!-- 637, 546, 488, 405, 1.0 um-->
   <event>
-    <channel>0</channel>
+    <channel>1</channel>
     <power>1</power>
     <on>60</on>
     <off>61</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>1</channel>
+    <channel>2</channel>
     <power>1</power>
     <on>61</on>
     <off>62</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>2</channel>
+    <channel>3</channel>
     <power>1</power>
     <on>62</on>
     <off>63</off>
@@ -483,23 +483,23 @@
     <color>255,255,255</color>
   </event>
 
-<!-- 748, 637, 546, 405, 1.2 um-->
+<!-- 637, 546, 488, 405, 1.2 um-->
   <event>
-    <channel>0</channel>
+    <channel>1</channel>
     <power>1</power>
     <on>64</on>
     <off>65</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>1</channel>
+    <channel>2</channel>
     <power>1</power>
     <on>65</on>
     <off>66</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>2</channel>
+    <channel>3</channel>
     <power>1</power>
     <on>66</on>
     <off>67</off>
@@ -513,23 +513,23 @@
     <color>255,255,255</color>
   </event>
 
-<!-- 748, 637, 546, 405, 1.4 um-->
+<!-- 637, 546, 488, 405, 1.4 um-->
   <event>
-    <channel>0</channel>
+    <channel>1</channel>
     <power>1</power>
     <on>68</on>
     <off>69</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>1</channel>
+    <channel>2</channel>
     <power>1</power>
     <on>69</on>
     <off>70</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>2</channel>
+    <channel>3</channel>
     <power>1</power>
     <on>70</on>
     <off>71</off>
@@ -543,23 +543,23 @@
     <color>255,255,255</color>
   </event>
 
-<!-- 748, 637, 546, 405, 1.6 um-->
+<!-- 637, 546, 488, 405, 1.6 um-->
   <event>
-    <channel>0</channel>
+    <channel>1</channel>
     <power>1</power>
     <on>72</on>
     <off>73</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>1</channel>
+    <channel>2</channel>
     <power>1</power>
     <on>73</on>
     <off>74</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>2</channel>
+    <channel>3</channel>
     <power>1</power>
     <on>74</on>
     <off>75</off>
@@ -573,23 +573,23 @@
     <color>255,255,255</color>
   </event>
 
-<!-- 748, 637, 546, 405, 1.8 um-->
+<!-- 637, 546, 488, 405, 1.8 um-->
   <event>
-    <channel>0</channel>
+    <channel>1</channel>
     <power>1</power>
     <on>76</on>
     <off>77</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>1</channel>
+    <channel>2</channel>
     <power>1</power>
     <on>77</on>
     <off>78</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>2</channel>
+    <channel>3</channel>
     <power>1</power>
     <on>78</on>
     <off>79</off>
@@ -603,23 +603,23 @@
     <color>255,255,255</color>
   </event>
 
-<!-- 748, 637, 546, 405, 2.0 um-->
+<!-- 637, 546, 488, 405, 2.0 um-->
   <event>
-    <channel>0</channel>
+    <channel>1</channel>
     <power>1</power>
     <on>80</on>
     <off>81</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>1</channel>
+    <channel>2</channel>
     <power>1</power>
     <on>81</on>
     <off>82</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>2</channel>
+    <channel>3</channel>
     <power>1</power>
     <on>82</on>
     <off>83</off>
@@ -633,23 +633,23 @@
     <color>255,255,255</color>
   </event>
 
-<!-- 748, 637, 546, 405, 2.2 um-->
+<!-- 637, 546, 488, 405, 2.2 um-->
   <event>
-    <channel>0</channel>
+    <channel>1</channel>
     <power>1</power>
     <on>84</on>
     <off>85</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>1</channel>
+    <channel>2</channel>
     <power>1</power>
     <on>85</on>
     <off>86</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>2</channel>
+    <channel>3</channel>
     <power>1</power>
     <on>86</on>
     <off>87</off>
@@ -663,23 +663,23 @@
     <color>255,255,255</color>
   </event>
 
-<!-- 748, 637, 546, 405, 2.4 um-->
+<!-- 637, 546, 488, 405, 2.4 um-->
   <event>
-    <channel>0</channel>
+    <channel>1</channel>
     <power>1</power>
     <on>88</on>
     <off>89</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>1</channel>
+    <channel>2</channel>
     <power>1</power>
     <on>89</on>
     <off>90</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>2</channel>
+    <channel>3</channel>
     <power>1</power>
     <on>90</on>
     <off>91</off>
@@ -693,23 +693,23 @@
     <color>255,255,255</color>
   </event>
 
-<!-- 748, 637, 546, 405, 2.6 um-->
+<!-- 637, 546, 488, 405, 2.6 um-->
   <event>
-    <channel>0</channel>
+    <channel>1</channel>
     <power>1</power>
     <on>92</on>
     <off>93</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>1</channel>
+    <channel>2</channel>
     <power>1</power>
     <on>93</on>
     <off>94</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>2</channel>
+    <channel>3</channel>
     <power>1</power>
     <on>94</on>
     <off>95</off>
@@ -723,23 +723,23 @@
     <color>255,255,255</color>
   </event>
 
-<!-- 748, 637, 546, 405, 2.8 um-->
+<!-- 637, 546, 488, 405, 2.8 um-->
   <event>
-    <channel>0</channel>
+    <channel>1</channel>
     <power>1</power>
     <on>96</on>
     <off>97</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>1</channel>
+    <channel>2</channel>
     <power>1</power>
     <on>97</on>
     <off>98</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>2</channel>
+    <channel>3</channel>
     <power>1</power>
     <on>98</on>
     <off>99</off>
@@ -753,23 +753,23 @@
     <color>255,255,255</color>
   </event>
 
-<!-- 748, 637, 546, 405, 3.0 um-->
+<!-- 637, 546, 488, 405, 3.0 um-->
   <event>
-    <channel>0</channel>
+    <channel>1</channel>
     <power>1</power>
     <on>100</on>
     <off>101</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>1</channel>
+    <channel>2</channel>
     <power>1</power>
     <on>101</on>
     <off>102</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>2</channel>
+    <channel>3</channel>
     <power>1</power>
     <on>102</on>
     <off>103</off>
@@ -783,23 +783,23 @@
     <color>255,255,255</color>
   </event>
 
-<!-- 748, 637, 546, 405, 3.2 um-->
+<!-- 637, 546, 488, 405, 3.2 um-->
   <event>
-    <channel>0</channel>
+    <channel>1</channel>
     <power>1</power>
     <on>104</on>
     <off>105</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>1</channel>
+    <channel>2</channel>
     <power>1</power>
     <on>105</on>
     <off>106</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>2</channel>
+    <channel>3</channel>
     <power>1</power>
     <on>106</on>
     <off>107</off>
@@ -813,23 +813,23 @@
     <color>255,255,255</color>
   </event>
 
-<!-- 748, 637, 546, 405, 3.4 um-->
+<!-- 637, 546, 488, 405, 3.4 um-->
   <event>
-    <channel>0</channel>
+    <channel>1</channel>
     <power>1</power>
     <on>108</on>
     <off>109</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>1</channel>
+    <channel>2</channel>
     <power>1</power>
     <on>109</on>
     <off>110</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>2</channel>
+    <channel>3</channel>
     <power>1</power>
     <on>110</on>
     <off>111</off>
@@ -843,23 +843,23 @@
     <color>255,255,255</color>
   </event>
 
-<!-- 748, 637, 546, 405, 3.6 um-->
+<!-- 637, 546, 488, 405, 3.6 um-->
   <event>
-    <channel>0</channel>
+    <channel>1</channel>
     <power>1</power>
     <on>112</on>
     <off>113</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>1</channel>
+    <channel>2</channel>
     <power>1</power>
     <on>113</on>
     <off>114</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>2</channel>
+    <channel>3</channel>
     <power>1</power>
     <on>114</on>
     <off>115</off>
@@ -873,23 +873,23 @@
     <color>255,255,255</color>
   </event>
 
-<!-- 748, 637, 546, 405, 3.8 um-->
+<!-- 637, 546, 488, 405, 3.8 um-->
   <event>
-    <channel>0</channel>
+    <channel>1</channel>
     <power>1</power>
     <on>116</on>
     <off>117</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>1</channel>
+    <channel>2</channel>
     <power>1</power>
     <on>117</on>
     <off>118</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>2</channel>
+    <channel>3</channel>
     <power>1</power>
     <on>118</on>
     <off>119</off>
@@ -903,23 +903,23 @@
     <color>255,255,255</color>
   </event>
 
-<!-- 748, 637, 546, 405, 4.0 um-->
+<!-- 637, 546, 488, 405, 4.0 um-->
   <event>
-    <channel>0</channel>
+    <channel>1</channel>
     <power>1</power>
     <on>120</on>
     <off>121</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>1</channel>
+    <channel>2</channel>
     <power>1</power>
     <on>121</on>
     <off>122</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>2</channel>
+    <channel>3</channel>
     <power>1</power>
     <on>122</on>
     <off>123</off>
@@ -933,23 +933,23 @@
     <color>255,255,255</color>
   </event>
 
-<!-- 748, 637, 546, 405, 4.2 um-->
+<!-- 637, 546, 488, 405, 4.2 um-->
   <event>
-    <channel>0</channel>
+    <channel>1</channel>
     <power>1</power>
     <on>124</on>
     <off>125</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>1</channel>
+    <channel>2</channel>
     <power>1</power>
     <on>125</on>
     <off>126</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>2</channel>
+    <channel>3</channel>
     <power>1</power>
     <on>126</on>
     <off>127</off>
@@ -963,23 +963,23 @@
     <color>255,255,255</color>
   </event>
 
-<!-- 748, 637, 546, 405, 4.4 um-->
+<!-- 637, 546, 488, 405, 4.4 um-->
   <event>
-    <channel>0</channel>
+    <channel>1</channel>
     <power>1</power>
     <on>128</on>
     <off>129</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>1</channel>
+    <channel>2</channel>
     <power>1</power>
     <on>129</on>
     <off>130</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>2</channel>
+    <channel>3</channel>
     <power>1</power>
     <on>130</on>
     <off>131</off>
@@ -993,23 +993,23 @@
     <color>255,255,255</color>
   </event>
 
-<!-- 748, 637, 546, 405, 4.6 um-->
+<!-- 637, 546, 488, 405, 4.6 um-->
   <event>
-    <channel>0</channel>
+    <channel>1</channel>
     <power>1</power>
     <on>132</on>
     <off>133</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>1</channel>
+    <channel>2</channel>
     <power>1</power>
     <on>133</on>
     <off>134</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>2</channel>
+    <channel>3</channel>
     <power>1</power>
     <on>134</on>
     <off>135</off>
@@ -1023,23 +1023,23 @@
     <color>255,255,255</color>
   </event>
 
-<!-- 748, 637, 546, 405, 4.8 um-->
+<!-- 637, 546, 488, 405, 4.8 um-->
   <event>
-    <channel>0</channel>
+    <channel>1</channel>
     <power>1</power>
     <on>136</on>
     <off>137</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>1</channel>
+    <channel>2</channel>
     <power>1</power>
     <on>137</on>
     <off>138</off>
     <color>255,255,255</color>
   </event>
   <event>
-    <channel>2</channel>
+    <channel>3</channel>
     <power>1</power>
     <on>138</on>
     <off>139</off>
