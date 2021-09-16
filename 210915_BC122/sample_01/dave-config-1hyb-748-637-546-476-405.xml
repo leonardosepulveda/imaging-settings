@@ -6,7 +6,7 @@
 			<movie>
 				<name increment = "Yes">hal</name>
 				<length>5</length>
-				<parameters>hal-config-10x-748-637-546-476-405</parameters>
+				<parameters>hal-config-748-637-546-476-405</parameters>
 				<overwrite>False</overwrite>
 				<variable_entry name = "Movie Loop 1"></variable_entry>
 			</movie>
