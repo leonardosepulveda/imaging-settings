@@ -843,6 +843,11 @@
 		<pump duration = "120">0.5 mL/min</pump>
 		<pump duration = "600">Stop Flow</pump>
 
+		<!-- Wash wash buffer -->
+		<valve duration = "10">SSC</valve>
+		<pump duration = "120">0.5 mL/min</pump>
+		<pump duration = "30">Stop Flow</pump>
+
 		<!-- Flow imaging buffer-->
 		<valve duration = "10">Image Buffer</valve>
 		<pump duration = "120">0.5 mL/min</pump>

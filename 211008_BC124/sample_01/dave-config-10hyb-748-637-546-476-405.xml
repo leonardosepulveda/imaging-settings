@@ -5,7 +5,7 @@
 		<loop name = "Movie Loop 1">
 			<movie>
 				<name increment = "Yes">hal</name>
-				<length>31</length>
+				<length>36</length>
 				<parameters>hal-config-750z7-647z7-560z1-488z7-455z7-dz15</parameters>
 				<check_focus>
                     <min_sum>60000</min_sum>
@@ -18,10 +18,11 @@
 		</loop>
 		<loop name="Hybridize Loop 1">
 			<variable_entry name = "Hybridize Loop 1"></variable_entry>
+			<wakeup>10000</wakeup>
 			<loop name = "Movie Loop 2">
 				<movie>
 					<name increment = "Yes">hal</name>
-					<length>17</length>
+					<length>22</length>
 					<parameters>hal-config-750z7-647z7-560z1-dz15</parameters>
 					<check_focus>
                         <min_sum>60000</min_sum>
@@ -42,7 +43,6 @@
 	<loop_variable name = "Movie Loop 2">
 		<file_path></file_path>
 	</loop_variable>
-
 
 	<loop_variable name = "Hybridize Loop 1">
 		<value>
