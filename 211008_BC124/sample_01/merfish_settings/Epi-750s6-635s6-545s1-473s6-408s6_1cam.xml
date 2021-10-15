@@ -47,7 +47,7 @@
       <offset_threshold type="float">50.0</offset_threshold>
     </locked>
   	<hardware_z_scan>
-		<z_offsets type="string">0,0,0.5,0.5,0.5,0.5,0.5,2,2,2,2,2,3.5,3.5,3.5,3.5,3.5,5,5,5,5,5,6.5,6.5,6.5,6.5,6.5,8,8,8,8,8</z_offsets>
+		<z_offsets type="string">0,0, 0.5,0.5,0.5,0.5,0.5, 2,2,2,2,2, 3.5,3.5,3.5,3.5,3.5, 5,5,5,5,5, 6.5,6.5,6.5,6.5,6.5, 8,8,8,8,8</z_offsets>
 	</hardware_z_scan>
   </focuslock>
   
