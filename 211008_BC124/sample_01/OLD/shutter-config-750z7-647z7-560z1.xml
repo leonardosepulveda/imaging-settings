@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<repeat>
+  <oversampling>1</oversampling>
+	<frames>21</frames>
+    
+    <!-- 750, 637, 546, z = 0.0 um-->
+	  <event>
+	    <channel>0</channel>
+	    <power>1</power>
+	    <on>0</on>
+	    <off>1</off>
+	    <color>255,255,255</color>
+	  </event>
+	  <event>
+	    <channel>1</channel>
+	    <power>1</power>
+	    <on>1</on>
+	    <off>2</off>
+	    <color>255,255,255</color>
+	  </event>
+	  <event>
+	    <channel>2</channel>
+	    <power>1</power>
+	    <on>2</on>
+	    <off>3</off>
+	    <color>255,255,255</color>
+	  </event>
+
+		<!-- 750, 637, z = 1.5 um-->
+	  <event>
+	    <channel>0</channel>
+	    <power>1</power>
+	    <on>4</on>
+	    <off>5</off>
+	    <color>255,255,255</color>
+	  </event>
+	  <event>
+	    <channel>1</channel>
+	    <power>1</power>
+	    <on>5</on>
+	    <off>6</off>
+	    <color>255,255,255</color>
+	  </event>
+
+	  <!-- 750, 637, z = 3.0 um-->
+	  <event>
+	    <channel>0</channel>
+	    <power>1</power>
+	    <on>7</on>
+	    <off>8</off>
+	    <color>255,255,255</color>
+	  </event>
+	  <event>
+	    <channel>1</channel>
+	    <power>1</power>
+	    <on>8</on>
+	    <off>9</off>
+	    <color>255,255,255</color>
+	  </event>
+
+	  <!-- 750, 637 z = 4.5 um-->
+	  <event>
+	    <channel>0</channel>
+	    <power>1</power>
+	    <on>10</on>
+	    <off>11</off>
+	    <color>255,255,255</color>
+	  </event>
+	  <event>
+	    <channel>1</channel>
+	    <power>1</power>
+	    <on>11</on>
+	    <off>12</off>
+	    <color>255,255,255</color>
+	  </event>
+
+	  <!-- 750, 637, z = 6.0 um-->
+	  <event>
+	    <channel>0</channel>
+	    <power>1</power>
+	    <on>13</on>
+	    <off>14</off>
+	    <color>255,255,255</color>
+	  </event>
+	  <event>
+	    <channel>1</channel>
+	    <power>1</power>
+	    <on>14</on>
+	    <off>15</off>
+	    <color>255,255,255</color>
+	  </event>
+
+	  <!-- 750, 637, z = 7.5 um-->
+	  <event>
+	    <channel>0</channel>
+	    <power>1</power>
+	    <on>16</on>
+	    <off>17</off>
+	    <color>255,255,255</color>
+	  </event>
+	  <event>
+	    <channel>1</channel>
+	    <power>1</power>
+	    <on>17</on>
+	    <off>18</off>
+	    <color>255,255,255</color>
+	  </event>
+
+	  <!-- 750, 637, 488, 405, z = 9.0 um-->
+	  <event>
+	    <channel>0</channel>
+	    <power>1</power>
+	    <on>19</on>
+	    <off>20</off>
+	    <color>255,255,255</color>
+	  </event>
+	  <event>
+	    <channel>1</channel>
+	    <power>1</power>
+	    <on>20</on>
+	    <off>21</off>
+	    <color>255,255,255</color>
+	  </event>
+
+</repeat>
