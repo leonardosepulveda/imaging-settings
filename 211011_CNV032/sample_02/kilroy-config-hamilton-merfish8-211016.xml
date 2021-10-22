@@ -726,7 +726,7 @@
 	</protocol>
 
 
-	<protocol name = "Hybridize Adaptor 1 + DAPI">
+	<protocol name = "Flow Adaptor 1, Wash, flow readouts, Wash, Flow DAPI (Hyb 24) and flow imaging buffer">
 		
 		<!-- flow adaptor (12 min) -->
 		<valve duration = "10">Set Hyb 1</valve>
@@ -756,553 +756,129 @@
 		<pump duration = "230">1.5 mL in 3 min</pump>
 	</protocol>
 
-	<protocol name = "Hybridize Adaptor 1">
-		
-		<!-- flow adaptor (12 min) -->
+	<protocol name = "Flow Adaptor 1, 12 min">
 		<valve duration = "10">Set Hyb 1</valve>
 		<pump duration = "720">1.0 mL in 2 min</pump>
 	</protocol>
 
-	<protocol name = "Hybridize Adaptor 2">
-
-		<!-- flow adaptor (12 min) -->
+	<protocol name = "Flow Adaptor 2, 12 min">
 		<valve duration = "10">Set Hyb 2</valve>
 		<pump duration = "720">1.0 mL in 2 min</pump>
-		
 	</protocol>
 
-	<protocol name = "Hybridize Adaptor 3">
-
-		<!-- flow adaptor (12 min) -->
+	<protocol name = "Flow Adaptor 3, 12 min">
 		<valve duration = "10">Set Hyb 3</valve>
 		<pump duration = "720">1.0 mL in 2 min</pump>
-		
-		<!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow readout (12 min) -->
-	    <valve duration = "10">SSC</valve>
-        <pump duration = "720">1.0 mL in 2 min</pump>
-
-	    <!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow image buffer (3 min)-->
-		<valve duration = "10">Image Buffer</valve>
-		<pump duration = "180">1.0 mL in 2 min</pump>
 	</protocol>
 
-	<protocol name = "Hybridize Adaptor 4">
-
-		<!-- flow adaptor (12 min) -->
+	<protocol name = "Flow Adaptor 4, 12 min">
 		<valve duration = "10">Set Hyb 4</valve>
 		<pump duration = "720">1.0 mL in 2 min</pump>
-		
-		<!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow readout (12 min) -->
-	    <valve duration = "10">SSC</valve>
-        <pump duration = "720">1.0 mL in 2 min</pump>
-
-	    <!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow image buffer (3 min)-->
-		<valve duration = "10">Image Buffer</valve>
-		<pump duration = "180">1.0 mL in 2 min</pump>
 	</protocol>
 
-	<protocol name = "Hybridize Adaptor 5">
-
-		<!-- flow adaptor (12 min) -->
+	<protocol name = "Flow Adaptor 5, 12 min">
 		<valve duration = "10">Set Hyb 5</valve>
 		<pump duration = "720">1.0 mL in 2 min</pump>
-		
-		<!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow readout (12 min) -->
-	    <valve duration = "10">SSC</valve>
-        <pump duration = "720">1.0 mL in 2 min</pump>
-
-	    <!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow image buffer (3 min)-->
-		<valve duration = "10">Image Buffer</valve>
-		<pump duration = "180">1.0 mL in 2 min</pump>
 	</protocol>
 
-	<protocol name = "Hybridize Adaptor 6">
-
-		<!-- flow adaptor (12 min) -->
+	<protocol name = "Flow Adaptor 6, 12 min">
 		<valve duration = "10">Set Hyb 6</valve>
 		<pump duration = "720">1.0 mL in 2 min</pump>
-		
-		<!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow readout (12 min) -->
-	    <valve duration = "10">SSC</valve>
-        <pump duration = "720">1.0 mL in 2 min</pump>
-
-	    <!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow image buffer (3 min)-->
-		<valve duration = "10">Image Buffer</valve>
-		<pump duration = "180">1.0 mL in 2 min</pump>
 	</protocol>
 
-	<protocol name = "Hybridize Adaptor 7">
-
-		<!-- flow adaptor (12 min) -->
+	<protocol name = "Flow Adaptor 7, 12 min">
 		<valve duration = "10">Set Hyb 7</valve>
 		<pump duration = "720">1.0 mL in 2 min</pump>
-		
-		<!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow readout (12 min) -->
-	    <valve duration = "10">SSC</valve>
-        <pump duration = "720">1.0 mL in 2 min</pump>
-
-	    <!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow image buffer (3 min)-->
-		<valve duration = "10">Image Buffer</valve>
-		<pump duration = "180">1.0 mL in 2 min</pump>
 	</protocol>
 
-	<protocol name = "Hybridize Adaptor 8">
-
-		<!-- flow adaptor (12 min) -->
+	<protocol name = "Flow Adaptor 8, 12 min">
 		<valve duration = "10">Set Hyb 8</valve>
 		<pump duration = "720">1.0 mL in 2 min</pump>
-		
-		<!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow readout (12 min) -->
-	    <valve duration = "10">SSC</valve>
-        <pump duration = "720">1.0 mL in 2 min</pump>
-
-	    <!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow image buffer (3 min)-->
-		<valve duration = "10">Image Buffer</valve>
-		<pump duration = "180">1.0 mL in 2 min</pump>
 	</protocol>
 
-	<protocol name = "Hybridize Adaptor 9">
-
-		<!-- flow adaptor (12 min) -->
+	<protocol name = "Flow Adaptor 9, 12 min">
 		<valve duration = "10">Set Hyb 9</valve>
 		<pump duration = "720">1.0 mL in 2 min</pump>
-		
-		<!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow readout (12 min) -->
-	    <valve duration = "10">SSC</valve>
-        <pump duration = "720">1.0 mL in 2 min</pump>
-
-	    <!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow image buffer (3 min)-->
-		<valve duration = "10">Image Buffer</valve>
-		<pump duration = "180">1.0 mL in 2 min</pump>
 	</protocol>
 
-	<protocol name = "Hybridize Adaptor 10">
-
-		<!-- flow adaptor (12 min) -->
+	<protocol name = "Flow Adaptor 10, 12 min">
 		<valve duration = "10">Set Hyb 10</valve>
 		<pump duration = "720">1.0 mL in 2 min</pump>
-		
-		<!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow readout (12 min) -->
-	    <valve duration = "10">SSC</valve>
-        <pump duration = "720">1.0 mL in 2 min</pump>
-
-	    <!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow image buffer (3 min)-->
-		<valve duration = "10">Image Buffer</valve>
-		<pump duration = "180">1.0 mL in 2 min</pump>
 	</protocol>
 
-	<protocol name = "Hybridize Adaptor 11">
-
-		<!-- flow adaptor (12 min) -->
+	<protocol name = "Flow Adaptor 11, 12 min">
 		<valve duration = "10">Set Hyb 11</valve>
 		<pump duration = "720">1.0 mL in 2 min</pump>
-		
-		<!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow readout (12 min) -->
-	    <valve duration = "10">SSC</valve>
-        <pump duration = "720">1.0 mL in 2 min</pump>
-
-	    <!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow image buffer (3 min)-->
-		<valve duration = "10">Image Buffer</valve>
-		<pump duration = "180">1.0 mL in 2 min</pump>
 	</protocol>
 
-	<protocol name = "Hybridize Adaptor 12">
-
-		<!-- flow adaptor (12 min) -->
+	<protocol name = "Flow Adaptor 12, 12 min">
 		<valve duration = "10">Set Hyb 12</valve>
 		<pump duration = "720">1.0 mL in 2 min</pump>
-		
-		<!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow readout (12 min) -->
-	    <valve duration = "10">SSC</valve>
-        <pump duration = "720">1.0 mL in 2 min</pump>
-
-	    <!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow image buffer (3 min)-->
-		<valve duration = "10">Image Buffer</valve>
-		<pump duration = "180">1.0 mL in 2 min</pump>
 	</protocol>
 
-	<protocol name = "Hybridize Adaptor 13">
-
-		<!-- flow adaptor (12 min) -->
+	<protocol name = "Flow Adaptor 13, 12 min">
 		<valve duration = "10">Set Hyb 13</valve>
 		<pump duration = "720">1.0 mL in 2 min</pump>
-		
-		<!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow readout (12 min) -->
-	    <valve duration = "10">SSC</valve>
-        <pump duration = "720">1.0 mL in 2 min</pump>
-
-	    <!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow image buffer (3 min)-->
-		<valve duration = "10">Image Buffer</valve>
-		<pump duration = "180">1.0 mL in 2 min</pump>
 	</protocol>
 
-	<protocol name = "Hybridize Adaptor 14">
-
-		<!-- flow adaptor (12 min) -->
+	<protocol name = "Flow Adaptor 14, 12 min">
 		<valve duration = "10">Set Hyb 14</valve>
 		<pump duration = "720">1.0 mL in 2 min</pump>
-		
-		<!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow readout (12 min) -->
-	    <valve duration = "10">SSC</valve>
-        <pump duration = "720">1.0 mL in 2 min</pump>
-
-	    <!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow image buffer (3 min)-->
-		<valve duration = "10">Image Buffer</valve>
-		<pump duration = "180">1.0 mL in 2 min</pump>
 	</protocol>
 
-	<protocol name = "Hybridize Adaptor 15">
-
-		<!-- flow adaptor (12 min) -->
+	<protocol name = "Flow Adaptor 15, 12 min">
 		<valve duration = "10">Set Hyb 15</valve>
 		<pump duration = "720">1.0 mL in 2 min</pump>
-		
-		<!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow readout (12 min) -->
-	    <valve duration = "10">SSC</valve>
-        <pump duration = "720">1.0 mL in 2 min</pump>
-
-	    <!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow image buffer (3 min)-->
-		<valve duration = "10">Image Buffer</valve>
-		<pump duration = "180">1.0 mL in 2 min</pump>
 	</protocol>
 
-	<protocol name = "Hybridize Adaptor 16">
-
-		<!-- flow adaptor (12 min) -->
+	<protocol name = "Flow Adaptor 16, 12 min">
 		<valve duration = "10">Set Hyb 16</valve>
 		<pump duration = "720">1.0 mL in 2 min</pump>
-		
-		<!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow readout (12 min) -->
-	    <valve duration = "10">SSC</valve>
-        <pump duration = "720">1.0 mL in 2 min</pump>
-
-	    <!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow image buffer (3 min)-->
-		<valve duration = "10">Image Buffer</valve>
-		<pump duration = "180">1.0 mL in 2 min</pump>
 	</protocol>
 
-	<protocol name = "Hybridize Adaptor 17">
-
-		<!-- flow adaptor (12 min) -->
+	<protocol name = "Flow Adaptor 17, 12 min">
 		<valve duration = "10">Set Hyb 17</valve>
 		<pump duration = "720">1.0 mL in 2 min</pump>
-		
-		<!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow readout (12 min) -->
-	    <valve duration = "10">SSC</valve>
-        <pump duration = "720">1.0 mL in 2 min</pump>
-
-	    <!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow image buffer (3 min)-->
-		<valve duration = "10">Image Buffer</valve>
-		<pump duration = "180">1.0 mL in 2 min</pump>
 	</protocol>
 
-	<protocol name = "Hybridize Adaptor 18">
-
-		<!-- flow adaptor (12 min) -->
+	<protocol name = "Flow Adaptor 18, 12 min">
 		<valve duration = "10">Set Hyb 18</valve>
 		<pump duration = "720">1.0 mL in 2 min</pump>
-		
-		<!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow readout (12 min) -->
-	    <valve duration = "10">SSC</valve>
-        <pump duration = "720">1.0 mL in 2 min</pump>
-
-	    <!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow image buffer (3 min)-->
-		<valve duration = "10">Image Buffer</valve>
-		<pump duration = "180">1.0 mL in 2 min</pump>
 	</protocol>
 
-	<protocol name = "Hybridize Adaptor 19">
-
-		<!-- flow adaptor (12 min) -->
+	<protocol name = "Flow Adaptor 19, 12 min">
 		<valve duration = "10">Set Hyb 19</valve>
 		<pump duration = "720">1.0 mL in 2 min</pump>
-		
-		<!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow readout (12 min) -->
-	    <valve duration = "10">SSC</valve>
-        <pump duration = "720">1.0 mL in 2 min</pump>
-
-	    <!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow image buffer (3 min)-->
-		<valve duration = "10">Image Buffer</valve>
-		<pump duration = "180">1.0 mL in 2 min</pump>
 	</protocol>
 
-	<protocol name = "Hybridize Adaptor 20">
-
-		<!-- flow adaptor (12 min) -->
+	<protocol name = "Flow Adaptor 20, 12 min">
 		<valve duration = "10">Set Hyb 20</valve>
 		<pump duration = "720">1.0 mL in 2 min</pump>
-		
-		<!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow readout (12 min) -->
-	    <valve duration = "10">SSC</valve>
-        <pump duration = "720">1.0 mL in 2 min</pump>
-
-	    <!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow image buffer (3 min)-->
-		<valve duration = "10">Image Buffer</valve>
-		<pump duration = "180">1.0 mL in 2 min</pump>
 	</protocol>
 
-	<protocol name = "Hybridize Adaptor 21">
-
-		<!-- flow adaptor (12 min) -->
+	<protocol name = "Flow Adaptor 21, 12 min">
 		<valve duration = "10">Set Hyb 21</valve>
 		<pump duration = "720">1.0 mL in 2 min</pump>
-		
-		<!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow readout (12 min) -->
-	    <valve duration = "10">SSC</valve>
-        <pump duration = "720">1.0 mL in 2 min</pump>
-
-	    <!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow image buffer (3 min)-->
-		<valve duration = "10">Image Buffer</valve>
-		<pump duration = "180">1.0 mL in 2 min</pump>
 	</protocol>
 
-	<protocol name = "Hybridize Adaptor 22">
-
-		<!-- flow adaptor (12 min) -->
+	<protocol name = "Flow Adaptor 22, 12 min">
 		<valve duration = "10">Set Hyb 22</valve>
 		<pump duration = "720">1.0 mL in 2 min</pump>
-		
-		<!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow readout (12 min) -->
-	    <valve duration = "10">SSC</valve>
-        <pump duration = "720">1.0 mL in 2 min</pump>
-
-	    <!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow image buffer (3 min)-->
-		<valve duration = "10">Image Buffer</valve>
-		<pump duration = "180">1.0 mL in 2 min</pump>
 	</protocol>
 
-	<protocol name = "Hybridize Adaptor 23">
-
-		<!-- flow adaptor (12 min) -->
+	<protocol name = "Flow Adaptor 23, 12 min">
 		<valve duration = "10">Set Hyb 23</valve>
 		<pump duration = "720">1.0 mL in 2 min</pump>
-		
-		<!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow readout (12 min) -->
-	    <valve duration = "10">SSC</valve>
-        <pump duration = "720">1.0 mL in 2 min</pump>
-
-	    <!-- Wash (5 min) -->
-		<valve duration = "10">Wash Buffer</valve>
-        <pump duration = "270">1.0 mL in 2 min</pump>
-		<pump duration =  "30">0.25 mL in 30 sec</pump>
-
-	    <!-- flow image buffer (3 min)-->
-		<valve duration = "10">Image Buffer</valve>
-		<pump duration = "180">1.0 mL in 2 min</pump>
 	</protocol>
 
-	<protocol name = "Hybridize Adaptor 24">
-
-		<!-- flow adaptor (12 min) -->
+	<protocol name = "Flow Adaptor 24, 12 min">
 		<valve duration = "10">Set Hyb 24</valve>
 		<pump duration = "720">1.0 mL in 2 min</pump>
+	</protocol>
+
+	<protocol name = "Wash 5 min, Flow readouts 12 min, Wash 5 min, Flow imaging buffer 5 min">
 		
-		<!-- Wash (5 min) -->
+		<!-- Wash buffer, (5 min) -->
 		<valve duration = "10">Wash Buffer</valve>
         <pump duration = "270">1.0 mL in 2 min</pump>
 		<pump duration =  "30">0.25 mL in 30 sec</pump>
@@ -1311,17 +887,16 @@
 	    <valve duration = "10">SSC</valve>
         <pump duration = "720">1.0 mL in 2 min</pump>
 
-	    <!-- Wash (5 min) -->
+	    <!-- Wash buffer, (5 min) -->
 		<valve duration = "10">Wash Buffer</valve>
         <pump duration = "270">1.0 mL in 2 min</pump>
 		<pump duration =  "30">0.25 mL in 30 sec</pump>
 
-	    <!-- flow image buffer (3 min)-->
+	    <!-- flow image buffer (4.5 min)-->
 		<valve duration = "10">Image Buffer</valve>
-		<pump duration = "180">1.0 mL in 2 min</pump>
+		<pump duration = "230">1.5 mL in 3 min</pump>
 	</protocol>
 
-	
 	<protocol name = "Cleanup all tubes, 2 ml/tube, 30 min">
 		<valve duration = "5">Set Hyb 1</valve>
 		<pump duration = "70">2.0 mL in 1 min</pump>
