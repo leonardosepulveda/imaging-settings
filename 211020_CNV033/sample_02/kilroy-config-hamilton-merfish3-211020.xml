@@ -1250,7 +1250,7 @@
 		<pump duration = "600">Stop Flow</pump>
 	</protocol>
 
-	<protocol name = "Wash 5 min, Flow readouts 12 min, Wash 5 min, Flow image buffer 5 min">
+	<protocol name = "Wash 5 min, Flow readouts 12 min, Wash 5 min, Flow imaging buffer 5 min">
 		<!-- Wash (5 min) -->
 		<valve duration = "10">Wash Buffer</valve>
     <pump duration = "120">0.5 mL/min</pump>

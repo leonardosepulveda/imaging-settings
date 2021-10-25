@@ -62,7 +62,7 @@
 			<valve_protocol>Wash 5 min, Flow readouts 12 min, Wash 5 min, Flow imaging buffer 5 min</valve_protocol>
 		</value>
 		<value>
-			<valve_protocol>Cleave Adaptors</valve_protocol>
+			<valve_protocol>Cleave Adaptors 18 min, Wash 5 min</valve_protocol>
 			<valve_protocol>Flow Adaptor 5, 12 min</valve_protocol>
 			<valve_protocol>Wash 5 min, Flow readouts 12 min, Wash 5 min, Flow imaging buffer 5 min</valve_protocol>
 		</value>
@@ -101,7 +101,6 @@
 			<valve_protocol>Flow Adaptor 12, 12 min</valve_protocol>
 			<valve_protocol>Wash 5 min, Flow readouts 12 min, Wash 5 min, Flow imaging buffer 5 min</valve_protocol>
 		</value>
-		
 		
 	</loop_variable>
 </recipe>
