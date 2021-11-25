@@ -4,9 +4,9 @@
 		<wakeup>10000</wakeup>
 		<loop name = "Movie Loop 1">
 			<movie>
-				<name increment = "Yes">hal</name>
-				<length>180</length>
-				<parameters>hal-config-637-546-488-405-dz02-z180</parameters>
+				<name increment = "Yes">hal-mf8</name>
+				<length>90</length>
+				<parameters>hal-config-637-405-dz02-z90</parameters>
 				<check_focus>
                     <min_sum>60000</min_sum>
 					<num_focus_checks>20</num_focus_checks>
@@ -22,9 +22,9 @@
 			<wakeup>10000</wakeup>
 			<loop name = "Movie Loop 2">
 				<movie>
-					<name increment = "Yes">hal</name>
-					<length>90</length>
-					<parameters>hal-config-637-488-dz02-z90</parameters>
+					<name increment = "Yes">hal-mf8</name>
+					<length>45</length>
+					<parameters>hal-config-637-dz02-z45</parameters>
 					<check_focus>
                         <min_sum>60000</min_sum>
 						<num_focus_checks>20</num_focus_checks>
@@ -79,26 +79,6 @@
 		<value>
 			<valve_protocol>Cleave Adaptors 18 min, Wash 5 min</valve_protocol>
 			<valve_protocol>Flow Adaptor 8, 12 min</valve_protocol>
-			<valve_protocol>Wash 5 min, Flow readouts 12 min, Wash 5 min, Flow imaging buffer 5 min</valve_protocol>
-		</value>
-		<value>
-			<valve_protocol>Cleave Adaptors 18 min, Wash 5 min</valve_protocol>
-			<valve_protocol>Flow Adaptor 9, 12 min</valve_protocol>
-			<valve_protocol>Wash 5 min, Flow readouts 12 min, Wash 5 min, Flow imaging buffer 5 min</valve_protocol>
-		</value>
-		<value>
-			<valve_protocol>Cleave Adaptors 18 min, Wash 5 min</valve_protocol>
-			<valve_protocol>Flow Adaptor 10, 12 min</valve_protocol>
-			<valve_protocol>Wash 5 min, Flow readouts 12 min, Wash 5 min, Flow imaging buffer 5 min</valve_protocol>
-		</value>
-		<value>
-			<valve_protocol>Cleave Adaptors 18 min, Wash 5 min</valve_protocol>
-			<valve_protocol>Flow Adaptor 11, 12 min</valve_protocol>
-			<valve_protocol>Wash 5 min, Flow readouts 12 min, Wash 5 min, Flow imaging buffer 5 min</valve_protocol>
-		</value>
-		<value>
-			<valve_protocol>Cleave Adaptors 18 min, Wash 5 min</valve_protocol>
-			<valve_protocol>Flow Adaptor 12, 12 min</valve_protocol>
 			<valve_protocol>Wash 5 min, Flow readouts 12 min, Wash 5 min, Flow imaging buffer 5 min</valve_protocol>
 		</value>
 		

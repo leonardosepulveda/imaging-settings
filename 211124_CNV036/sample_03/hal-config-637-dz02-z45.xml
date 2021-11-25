@@ -3,8 +3,8 @@
   <!-- camera settings -->
   <camera1>
     <colortable type="string">ramp_sat.ctbl</colortable>
-    <exposure_time type="float">0.1</exposure_time>
-    <exposure_value type="float">0.1</exposure_value>
+    <exposure_time type="float">0.2</exposure_time>
+    <exposure_value type="float">0.2</exposure_value>
     <flip_horizontal type="int">0</flip_horizontal>
     <flip_vertical type="int">0</flip_vertical>
     <max_intensity type="int">65536</max_intensity>
@@ -21,15 +21,15 @@
     <auto_shutters type="int">1</auto_shutters>
     <filename type="string">hal</filename> 
     <filetype type="string">.dax</filetype>
-    <frames type="int">90</frames>
+    <frames type="int">45</frames>
     <logfile type="string">c:\Data\image_log.txt</logfile>
     <want_bell type="int">1</want_bell>
   </film>
 
   <!-- illumination settings -->
   <illumination>
-  	<default_power type="custom">1.000,0.500,0.050,0.050,0.001</default_power>
-  	<shutters type="string">shutter-config-637-488-z90.xml</shutters>
+  	<default_power type="custom">1.000,0.500,0.050,0.050,0.025</default_power>
+  	<shutters type="string">shutter-config-637-z45.xml</shutters>
     <on_off_state type="custom">False,False,False,False,False</on_off_state>
     <power_buttons type="custom">[[['Max', 1.0], ['Low', 0.1]], [['Max', 1.0], ['Low', 0.1]], [['Max', 1.0], ['Low', 0.1]], [['Max', 1.0], ['Low', 0.1]], [['Max', 1.0], ['Low', 0.0088]]]</power_buttons>
   </illumination>
@@ -37,7 +37,7 @@
   <!-- focus lock settings, MCL -->
   <focuslock>
   	<hardware_z_scan>
-      <z_offsets type="string">-2.0,-2.0, -1.8,-1.8, -1.6,-1.6, -1.4,-1.4, -1.2,-1.2, -1.0,-1.0, -0.8,-0.8, -0.6,-0.6, -0.4,-0.4, -0.2,-0.2, -0.0,-0.0, 0.2,0.2, 0.4,0.4, 0.6,0.6, 0.8,0.8, 1.0,1.0, 1.2,1.2, 1.4,1.4, 1.6,1.6, 1.8,1.8, 2.0,2.0, 2.2,2.2, 2.4,2.4, 2.6,2.6, 2.8,2.8, 3.0,3.0, 3.2,3.2, 3.4,3.4, 3.6,3.6, 3.8,3.8, 4.0,4.0, 4.2,4.2, 4.4,4.4, 4.6,4.6, 4.8,4.8, 5.0,5.0, 5.2,5.2, 5.4,5.4, 5.6,5.6, 5.8,5.8, 6.0,6.0, 6.2,6.2, 6.4,6.4, 6.6,6.6, 6.8,6.8</z_offsets>
+      <z_offsets type="string">-2.0, -1.8, -1.6, -1.4, -1.2, -1.0, -0.8, -0.6, -0.4, -0.2, -0.0, 0.2, 0.4, 0.6, 0.8, 1.0, 1.2, 1.4, 1.6, 1.8, 2.0, 2.2, 2.4, 2.6, 2.8, 3.0, 3.2, 3.4, 3.6, 3.8, 4.0, 4.2, 4.4, 4.6, 4.8, 5.0, 5.2, 5.4, 5.6, 5.8, 6.0, 6.2, 6.4, 6.6, 6.8</z_offsets>
     </hardware_z_scan>
   </focuslock>
 
