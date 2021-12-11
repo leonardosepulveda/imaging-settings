@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<recipe>
+	<command_sequence>
+		<wakeup>10000</wakeup>
+		<loop name = "Movie Loop 1">
+			<movie>
+				<name increment = "Yes">hal-mf8</name>
+				<length>36</length>
+				<parameters>hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+				<check_focus>
+                    <min_sum>60000</min_sum>
+					<num_focus_checks>20</num_focus_checks>
+					<focus_scan/>
+				</check_focus>
+				<overwrite>False</overwrite>
+				<variable_entry name = "Movie Loop 1"></variable_entry>
+			</movie>
+		</loop>
+
+	</command_sequence>
+
+	<loop_variable name = "Movie Loop 1">
+		<file_path></file_path>
+	</loop_variable>
+		
+</recipe>
