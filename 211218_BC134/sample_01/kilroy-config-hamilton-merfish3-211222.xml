@@ -837,13 +837,13 @@
 		<pump duration = "900">Stop Flow</pump>
 	</protocol>
 
-	<protocol name = "Wash readouts, flow imaging buffer, 2 min flow">
+	<protocol name = "Wash readouts, 2XSSC, imaging buffer, 2 min flow">
 		<!-- Wash readouts (10 min)-->
 		<valve duration = "10">Wash Buffer</valve>
 		<pump duration = "120">0.5 mL/min</pump>
 		<pump duration = "600">Stop Flow</pump>
 
-		<!-- Wash wash buffer -->
+		<!-- Flow 2X SSC -->
 		<valve duration = "10">SSC</valve>
 		<pump duration = "120">0.5 mL/min</pump>
 		<pump duration = "30">Stop Flow</pump>
