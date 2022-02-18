@@ -49,55 +49,55 @@
 		<value>
 			<valve_protocol>Cleave, 2 min flow</valve_protocol>
 			<valve_protocol>Hybridize 2, 2 min flow</valve_protocol>
-			<valve_protocol>Wash readouts, 2XSSC, imaging buffer, 2 min flow</valve_protocol>
+			<valve_protocol>RNA MERFISH, Wash Adaptors, Flow readouts, Wash readouts, Flow image buffer</valve_protocol>
 			<email><subject>Microscope Update</subject><body>Imaging Hyb 2</body></email>
 		</value>
 		<value>
 			<valve_protocol>Cleave, 2 min flow</valve_protocol>
 			<valve_protocol>Hybridize 3, 2 min flow</valve_protocol>
-			<valve_protocol>Wash readouts, 2XSSC, imaging buffer, 2 min flow</valve_protocol>
+			<valve_protocol>RNA MERFISH, Wash Adaptors, Flow readouts, Wash readouts, Flow image buffer</valve_protocol>
 			<email><subject>Microscope Update</subject><body>Imaging Hyb 3</body></email>
 		</value>
 		<value>
 			<valve_protocol>Cleave, 2 min flow</valve_protocol>
 			<valve_protocol>Hybridize 4, 2 min flow</valve_protocol>
-			<valve_protocol>Wash readouts, 2XSSC, imaging buffer, 2 min flow</valve_protocol>
+			<valve_protocol>RNA MERFISH, Wash Adaptors, Flow readouts, Wash readouts, Flow image buffer</valve_protocol>
 			<email><subject>Microscope Update</subject><body>Imaging Hyb 4</body></email>
 		</value>
 		<value>
 			<valve_protocol>Cleave, 2 min flow</valve_protocol>
 			<valve_protocol>Hybridize 5, 2 min flow</valve_protocol>
-			<valve_protocol>Wash readouts, 2XSSC, imaging buffer, 2 min flow</valve_protocol>
+			<valve_protocol>RNA MERFISH, Wash Adaptors, Flow readouts, Wash readouts, Flow image buffer</valve_protocol>
 			<email><subject>Microscope Update</subject><body>Imaging Hyb 5</body></email>
 		</value>
 		<value>
 			<valve_protocol>Cleave, 2 min flow</valve_protocol>
 			<valve_protocol>Hybridize 6, 2 min flow</valve_protocol>
-			<valve_protocol>Wash readouts, 2XSSC, imaging buffer, 2 min flow</valve_protocol>
+			<valve_protocol>RNA MERFISH, Wash Adaptors, Flow readouts, Wash readouts, Flow image buffer</valve_protocol>
 			<email><subject>Microscope Update</subject><body>Imaging Hyb 6</body></email>
 		</value>
 		<value>
 			<valve_protocol>Cleave, 2 min flow</valve_protocol>
 			<valve_protocol>Hybridize 7, 2 min flow</valve_protocol>
-			<valve_protocol>Wash readouts, 2XSSC, imaging buffer, 2 min flow</valve_protocol>
+			<valve_protocol>RNA MERFISH, Wash Adaptors, Flow readouts, Wash readouts, Flow image buffer</valve_protocol>
 			<email><subject>Microscope Update</subject><body>Imaging Hyb 7</body></email>
 		</value>
 		<value>
 			<valve_protocol>Cleave, 2 min flow</valve_protocol>
 			<valve_protocol>Hybridize 8, 2 min flow</valve_protocol>
-			<valve_protocol>Wash readouts, 2XSSC, imaging buffer, 2 min flow</valve_protocol>
+			<valve_protocol>RNA MERFISH, Wash Adaptors, Flow readouts, Wash readouts, Flow image buffer</valve_protocol>
 			<email><subject>Microscope Update</subject><body>Imaging Hyb 8</body></email>
 		</value>
 		<value>
 			<valve_protocol>Cleave, 2 min flow</valve_protocol>
 			<valve_protocol>Hybridize 9, 2 min flow</valve_protocol>
-			<valve_protocol>Wash readouts, 2XSSC, imaging buffer, 2 min flow</valve_protocol>
+			<valve_protocol>RNA MERFISH, Wash Adaptors, Flow readouts, Wash readouts, Flow image buffer</valve_protocol>
 			<email><subject>Microscope Update</subject><body>Imaging Hyb 9</body></email>
 		</value>
 		<value>
 			<valve_protocol>Cleave, 2 min flow</valve_protocol>
 			<valve_protocol>Hybridize 10, 2 min flow</valve_protocol>
-			<valve_protocol>Wash readouts, 2XSSC, imaging buffer, 2 min flow</valve_protocol>
+			<valve_protocol>RNA MERFISH, Wash Adaptors, Flow readouts, Wash readouts, Flow image buffer</valve_protocol>
 			<email><subject>Microscope Update</subject><body>Imaging Hyb 10</body></email>
 		</value>
 		

@@ -1239,6 +1239,32 @@
 		<pump duration = "600">Stop Flow</pump>
 	</protocol>
 
+	<protocol name = "RNA MERFISH, Wash Adaptors, Flow readouts, Wash readouts, Flow image buffer">
+		<!-- Wash (8 min) -->
+		<valve duration = "10">Wash Buffer</valve>
+    <pump duration = "120">0.5 mL/min</pump>
+    <pump duration = "120">Stop Flow</pump>
+    <pump duration = "120">0.5 mL/min</pump>
+    <pump duration = "120">Stop Flow</pump>
+
+	  <!-- flow readout (10 min) -->
+	  <valve duration = "10">SSC</valve>
+	  <pump duration = "120">0.5 mL/min</pump>
+		<pump duration = "900">Stop Flow</pump>
+
+	  <!-- Wash (8 min) -->
+		<valve duration = "10">Wash Buffer</valve>
+    <pump duration = "120">0.5 mL/min</pump>
+    <pump duration = "120">Stop Flow</pump>
+    <pump duration = "120">0.5 mL/min</pump>
+    <pump duration = "120">Stop Flow</pump>
+
+	  <!-- flow image buffer -->
+		<valve duration = "10">Image Buffer</valve>
+		<pump duration = "120">0.5 mL/min</pump>
+		<pump duration = "180">Stop Flow</pump>
+	</protocol>
+
 	<protocol name = "Wash Adaptors, Flow readouts, Wash readouts, Flow image buffer">
 		<!-- Wash (5 min) -->
 		<valve duration = "10">Wash Buffer</valve>
