@@ -10,7 +10,7 @@
 		<wakeup>10000</wakeup>
 		<loop name = "Movie Loop 1">
 			<movie>
-				<name increment = "Yes">hal-mf3</name>
+				<name increment = "Yes">hal-mf3-0</name>
 				<length>4</length>
 				<parameters>hal-config-750z1-647z1-488z1-405z1</parameters>
 				<check_focus>
