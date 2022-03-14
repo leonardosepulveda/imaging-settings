@@ -48,7 +48,6 @@
 
 	<loop_variable name = "Hybridize Loop 1">
 		<value>
-			<valve_protocol>Cleave, 2 min flow</valve_protocol>
 			<valve_protocol>Hybridize 1, 2 min flow</valve_protocol>
 			<valve_protocol>Wash readouts, 2XSSC, imaging buffer, 2 min flow</valve_protocol>
 			<email><subject>Microscope Update</subject><body>Imaging Hyb 2</body></email>
