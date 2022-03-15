@@ -28,7 +28,7 @@
 					<parameters>hal-config-750z1-647z1-488z1-405z1</parameters>
 					<check_focus>
                         <min_sum>60000</min_sum>
-						<num_focus_checks>2</num_focus_checks>
+						<num_focus_checks>20</num_focus_checks>
 						<focus_scan/>
 					</check_focus>
 					<overwrite>False</overwrite>
