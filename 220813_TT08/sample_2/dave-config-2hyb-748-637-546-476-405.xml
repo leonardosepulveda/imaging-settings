@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<recipe>
+	<command_sequence>
+		<wakeup>10000</wakeup>
+		<loop name = "Movie Loop 1">
+			<movie>
+				<name increment = "Yes">hal</name>
+				<length>36</length>
+				<parameters>hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+				<check_focus>
+                    <min_sum>60000</min_sum>
+					<num_focus_checks>20</num_focus_checks>
+					<focus_scan/>
+				</check_focus>
+				<overwrite>False</overwrite>
+				<variable_entry name = "Movie Loop 1"></variable_entry>
+			</movie>
+		</loop>
+
+		<loop name="Hybridize Loop 1">
+			<variable_entry name = "Hybridize Loop 1"></variable_entry>
+			<wakeup>10000</wakeup>
+			<loop name = "Movie Loop 2">
+				<movie>
+					<name increment = "Yes">hal</name>
+					<length>22</length>
+					<parameters>hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+					<check_focus>
+                        <min_sum>60000</min_sum>
+						<num_focus_checks>20</num_focus_checks>
+						<focus_scan/>
+					</check_focus>
+					<overwrite>False</overwrite>
+					<variable_entry name = "Movie Loop 2"></variable_entry>
+				</movie>
+			</loop>
+		</loop>
+	</command_sequence>
+
+	<loop_variable name = "Movie Loop 1">
+		<file_path></file_path>
+	</loop_variable>
+
+	<loop_variable name = "Movie Loop 2">
+		<file_path></file_path>
+	</loop_variable>
+
+	<loop_variable name = "Hybridize Loop 1">
+        <value>
+			<valve_protocol>Cleave, 2 min flow</valve_protocol>
+			<valve_protocol>Hybridize 2, 2 min flow</valve_protocol>
+			<valve_protocol>Wash readouts, 2XSSC, imaging buffer, 2 min flow</valve_protocol>
+			<email><subject>Microscope Update</subject><body>Starting Hyb 2</body></email>
+		</value>
+		<value>
+			<valve_protocol>Cleave, 2 min flow</valve_protocol>
+			<valve_protocol>Hybridize 3, 2 min flow</valve_protocol>
+			<valve_protocol>Wash readouts, 2XSSC, imaging buffer, 2 min flow</valve_protocol>
+			<email><subject>Microscope Update</subject><body>Starting Hyb 3</body></email>
+		</value>
+		
+	</loop_variable>
+</recipe>

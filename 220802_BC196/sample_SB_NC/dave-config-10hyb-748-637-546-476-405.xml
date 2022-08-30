@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<recipe>
+	<command_sequence>
+		<wakeup>10000</wakeup>
+		<loop name = "Movie Loop 1">
+			<movie>
+				<name increment = "Yes">hal</name>
+				<length>36</length>
+				<parameters>hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+				<check_focus>
+                    <min_sum>60000</min_sum>
+					<num_focus_checks>20</num_focus_checks>
+					<focus_scan/>
+				</check_focus>
+				<overwrite>False</overwrite>
+				<variable_entry name = "Movie Loop 1"></variable_entry>
+			</movie>
+		</loop>
+
+		<loop name="Hybridize Loop 1">
+			<variable_entry name = "Hybridize Loop 1"></variable_entry>
+			<wakeup>10000</wakeup>
+			<loop name = "Movie Loop 2">
+				<movie>
+					<name increment = "Yes">hal</name>
+					<length>22</length>
+					<parameters>hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+					<check_focus>
+                        <min_sum>60000</min_sum>
+						<num_focus_checks>20</num_focus_checks>
+						<focus_scan/>
+					</check_focus>
+					<overwrite>False</overwrite>
+					<variable_entry name = "Movie Loop 2"></variable_entry>
+				</movie>
+			</loop>
+		</loop>
+	</command_sequence>
+
+	<loop_variable name = "Movie Loop 1">
+		<file_path></file_path>
+	</loop_variable>
+
+	<loop_variable name = "Movie Loop 2">
+		<file_path></file_path>
+	</loop_variable>
+
+	<loop_variable name = "Hybridize Loop 1">
+		<value>
+			<valve_protocol>Cleave Adaptors 15 min, Wash 10 min</valve_protocol>
+			<valve_protocol>Hybridize Adaptor 2, 15 min</valve_protocol>
+			<valve_protocol>Wash 10 min, Flow readouts 15 min, Wash 10 min, Flow image buffer</valve_protocol>
+		</value>
+
+		<value>
+			<valve_protocol>Cleave Adaptors 15 min, Wash 10 min</valve_protocol>
+			<valve_protocol>Hybridize Adaptor 3, 15 min</valve_protocol>
+			<valve_protocol>Wash 10 min, Flow readouts 15 min, Wash 10 min, Flow image buffer</valve_protocol>
+		</value>
+
+		<value>
+			<valve_protocol>Cleave Adaptors 15 min, Wash 10 min</valve_protocol>
+			<valve_protocol>Hybridize Adaptor 4, 15 min</valve_protocol>
+			<valve_protocol>Wash 10 min, Flow readouts 15 min, Wash 10 min, Flow image buffer</valve_protocol>
+		</value>
+
+		<value>
+			<valve_protocol>Cleave Adaptors 15 min, Wash 10 min</valve_protocol>
+			<valve_protocol>Hybridize Adaptor 5, 15 min</valve_protocol>
+			<valve_protocol>Wash 10 min, Flow readouts 15 min, Wash 10 min, Flow image buffer</valve_protocol>
+		</value>
+
+		<value>
+			<valve_protocol>Cleave Adaptors 15 min, Wash 10 min</valve_protocol>
+			<valve_protocol>Hybridize Adaptor 6, 15 min</valve_protocol>
+			<valve_protocol>Wash 10 min, Flow readouts 15 min, Wash 10 min, Flow image buffer</valve_protocol>
+		</value>
+
+		<value>
+			<valve_protocol>Cleave Adaptors 15 min, Wash 10 min</valve_protocol>
+			<valve_protocol>Hybridize Adaptor 7, 15 min</valve_protocol>
+			<valve_protocol>Wash 10 min, Flow readouts 15 min, Wash 10 min, Flow image buffer</valve_protocol>
+		</value>
+
+		<value>
+			<valve_protocol>Cleave Adaptors 15 min, Wash 10 min</valve_protocol>
+			<valve_protocol>Hybridize Adaptor 8, 15 min</valve_protocol>
+			<valve_protocol>Wash 10 min, Flow readouts 15 min, Wash 10 min, Flow image buffer</valve_protocol>
+		</value>
+
+		<value>
+			<valve_protocol>Cleave Adaptors 15 min, Wash 10 min</valve_protocol>
+			<valve_protocol>Hybridize Adaptor 9, 15 min</valve_protocol>
+			<valve_protocol>Wash 10 min, Flow readouts 15 min, Wash 10 min, Flow image buffer</valve_protocol>
+		</value>
+
+		<value>
+			<valve_protocol>Cleave Adaptors 15 min, Wash 10 min</valve_protocol>
+			<valve_protocol>Hybridize Adaptor 10, 15 min</valve_protocol>
+			<valve_protocol>Wash 10 min, Flow readouts 15 min, Wash 10 min, Flow image buffer</valve_protocol>
+		</value>
+
+		<value>
+			<valve_protocol>Cleave Adaptors 15 min, Wash 10 min</valve_protocol>
+			<valve_protocol>Hybridize Adaptor 11, 15 min</valve_protocol>
+			<valve_protocol>Wash 10 min, Flow readouts 15 min, Wash 10 min, Flow image buffer</valve_protocol>
+		</value>
+		
+	</loop_variable>
+</recipe>

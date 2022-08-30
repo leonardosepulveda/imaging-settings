@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<settings>
+  <!-- camera settings -->
+  <camera1>
+
+    <!-- imaging settings -->
+    <exposure_time type="float">0.2</exposure_time>
+
+    <!-- view settings -->
+    <colortable type="string">ramp_sat.ctbl</colortable>
+    <flip_horizontal type="int">0</flip_horizontal>
+    <flip_vertical type="int">0</flip_vertical>
+    <max_intensity type="int">65536</max_intensity>
+    <transpose type="int">0</transpose>
+    <scalemax type="int">2000</scalemax>
+    <scalemin type="int">100</scalemin>
+    <sync type="int">0</sync>
+  </camera1>
+
+  <!-- film settings -->
+  <film>
+    <acq_mode type="string">fixed_length</acq_mode>
+    <auto_increment type="int">1</auto_increment>
+    <auto_shutters type="int">1</auto_shutters>
+    <filename type="string">test</filename> 
+    <filetype type="string">.dax</filetype>
+    <frames type="int">4</frames>
+    <logfile type="string">c:\Data\image_log.txt</logfile>
+    <want_bell type="int">1</want_bell>
+  </film>
+
+  <!-- illumination settings -->
+  <illumination>
+    <default_power type="custom">1.000,0.500,0.050,0.050,0.001</default_power>
+    <shutters type="string">shutter-config-750z1-647z1-488z1-405z1.xml</shutters>
+    <on_off_state type="custom">False,False,False,False,False</on_off_state>
+    <power_buttons type="custom">[[['Max', 1.0], ['Low', 0.1]], [['Max', 1.0], ['Low', 0.1]], [['Max', 1.0], ['Low', 0.1]], [['Max', 1.0], ['Low', 0.1]], [['Max', 1.0], ['Low', 0.0001]]]</power_buttons>
+  </illumination>
+  
+  <!-- focus lock settings -->
+  <focuslock>
+    <locked>
+      <buffer_length type="int">3</buffer_length>
+      <lock_gain type="float">0.1</lock_gain>
+      <lock_gain_max type="float">0.1</lock_gain_max>
+      <minimum_sum type="float">-1.0</minimum_sum>
+      <offset_threshold type="float">50.0</offset_threshold>
+    </locked>
+    <hardware_z_scan>
+      <z_offsets type="string">4.5,4.5,4.5,4.5</z_offsets>
+    </hardware_z_scan>
+  </focuslock>
+  
+
+</settings>
