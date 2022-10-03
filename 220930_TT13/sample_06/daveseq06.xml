@@ -1,0 +1,4018 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<sequence>
+  
+
+  <branch name="Movie Loop 1">
+    <branch name="hal-mf3_000">
+      <DAMoveStage>
+        <stage_x type="float">1066.2491666666665</stage_x>
+        <stage_y type="float">-3151.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_000</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_001">
+      <DAMoveStage>
+        <stage_x type="float">1066.2491666666665</stage_x>
+        <stage_y type="float">-2951.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_001</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_002">
+      <DAMoveStage>
+        <stage_x type="float">1066.2491666666665</stage_x>
+        <stage_y type="float">-2751.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_002</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_003">
+      <DAMoveStage>
+        <stage_x type="float">1066.2491666666665</stage_x>
+        <stage_y type="float">-2551.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_003</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_004">
+      <DAMoveStage>
+        <stage_x type="float">1066.2491666666665</stage_x>
+        <stage_y type="float">-2351.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_004</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_005">
+      <DAMoveStage>
+        <stage_x type="float">1066.2491666666665</stage_x>
+        <stage_y type="float">-2151.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_005</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_006">
+      <DAMoveStage>
+        <stage_x type="float">1066.2491666666665</stage_x>
+        <stage_y type="float">-1951.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_006</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_007">
+      <DAMoveStage>
+        <stage_x type="float">1066.2491666666665</stage_x>
+        <stage_y type="float">-1751.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_007</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_008">
+      <DAMoveStage>
+        <stage_x type="float">1066.2491666666665</stage_x>
+        <stage_y type="float">-1551.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_008</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_009">
+      <DAMoveStage>
+        <stage_x type="float">1066.2491666666665</stage_x>
+        <stage_y type="float">-1351.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_009</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_010">
+      <DAMoveStage>
+        <stage_x type="float">1066.2491666666665</stage_x>
+        <stage_y type="float">-1151.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_010</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_011">
+      <DAMoveStage>
+        <stage_x type="float">1266.2491666666665</stage_x>
+        <stage_y type="float">-951.9508333333332</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_011</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_012">
+      <DAMoveStage>
+        <stage_x type="float">1266.2491666666665</stage_x>
+        <stage_y type="float">-1151.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_012</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_013">
+      <DAMoveStage>
+        <stage_x type="float">1266.2491666666665</stage_x>
+        <stage_y type="float">-1351.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_013</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_014">
+      <DAMoveStage>
+        <stage_x type="float">1266.2491666666665</stage_x>
+        <stage_y type="float">-1551.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_014</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_015">
+      <DAMoveStage>
+        <stage_x type="float">1266.2491666666665</stage_x>
+        <stage_y type="float">-1751.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_015</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_016">
+      <DAMoveStage>
+        <stage_x type="float">1266.2491666666665</stage_x>
+        <stage_y type="float">-1951.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_016</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_017">
+      <DAMoveStage>
+        <stage_x type="float">1266.2491666666665</stage_x>
+        <stage_y type="float">-2151.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_017</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_018">
+      <DAMoveStage>
+        <stage_x type="float">1266.2491666666665</stage_x>
+        <stage_y type="float">-2351.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_018</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_019">
+      <DAMoveStage>
+        <stage_x type="float">1266.2491666666665</stage_x>
+        <stage_y type="float">-2551.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_019</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_020">
+      <DAMoveStage>
+        <stage_x type="float">1266.2491666666665</stage_x>
+        <stage_y type="float">-2751.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_020</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_021">
+      <DAMoveStage>
+        <stage_x type="float">1266.2491666666665</stage_x>
+        <stage_y type="float">-2951.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_021</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_022">
+      <DAMoveStage>
+        <stage_x type="float">1266.2491666666665</stage_x>
+        <stage_y type="float">-3151.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_022</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_023">
+      <DAMoveStage>
+        <stage_x type="float">1466.2491666666665</stage_x>
+        <stage_y type="float">-3151.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_023</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_024">
+      <DAMoveStage>
+        <stage_x type="float">1466.2491666666665</stage_x>
+        <stage_y type="float">-2951.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_024</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_025">
+      <DAMoveStage>
+        <stage_x type="float">1466.2491666666665</stage_x>
+        <stage_y type="float">-2751.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_025</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_026">
+      <DAMoveStage>
+        <stage_x type="float">1466.2491666666665</stage_x>
+        <stage_y type="float">-2551.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_026</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_027">
+      <DAMoveStage>
+        <stage_x type="float">1466.2491666666665</stage_x>
+        <stage_y type="float">-2351.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_027</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_028">
+      <DAMoveStage>
+        <stage_x type="float">1466.2491666666665</stage_x>
+        <stage_y type="float">-2151.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_028</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_029">
+      <DAMoveStage>
+        <stage_x type="float">1466.2491666666665</stage_x>
+        <stage_y type="float">-1951.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_029</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_030">
+      <DAMoveStage>
+        <stage_x type="float">1466.2491666666665</stage_x>
+        <stage_y type="float">-1751.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_030</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_031">
+      <DAMoveStage>
+        <stage_x type="float">1466.2491666666665</stage_x>
+        <stage_y type="float">-1551.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_031</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_032">
+      <DAMoveStage>
+        <stage_x type="float">1466.2491666666665</stage_x>
+        <stage_y type="float">-1351.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_032</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_033">
+      <DAMoveStage>
+        <stage_x type="float">1466.2491666666665</stage_x>
+        <stage_y type="float">-1151.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_033</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_034">
+      <DAMoveStage>
+        <stage_x type="float">1466.2491666666665</stage_x>
+        <stage_y type="float">-951.9508333333332</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_034</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_035">
+      <DAMoveStage>
+        <stage_x type="float">1666.2491666666665</stage_x>
+        <stage_y type="float">-951.9508333333332</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_035</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_036">
+      <DAMoveStage>
+        <stage_x type="float">1666.2491666666665</stage_x>
+        <stage_y type="float">-1151.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_036</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_037">
+      <DAMoveStage>
+        <stage_x type="float">1666.2491666666665</stage_x>
+        <stage_y type="float">-1351.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_037</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_038">
+      <DAMoveStage>
+        <stage_x type="float">1666.2491666666665</stage_x>
+        <stage_y type="float">-1551.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_038</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_039">
+      <DAMoveStage>
+        <stage_x type="float">1666.2491666666665</stage_x>
+        <stage_y type="float">-1751.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_039</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_040">
+      <DAMoveStage>
+        <stage_x type="float">1666.2491666666665</stage_x>
+        <stage_y type="float">-1951.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_040</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_041">
+      <DAMoveStage>
+        <stage_x type="float">1666.2491666666665</stage_x>
+        <stage_y type="float">-2151.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_041</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_042">
+      <DAMoveStage>
+        <stage_x type="float">1666.2491666666665</stage_x>
+        <stage_y type="float">-2351.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_042</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_043">
+      <DAMoveStage>
+        <stage_x type="float">1666.2491666666665</stage_x>
+        <stage_y type="float">-2551.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_043</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_044">
+      <DAMoveStage>
+        <stage_x type="float">1666.2491666666665</stage_x>
+        <stage_y type="float">-2751.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_044</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_045">
+      <DAMoveStage>
+        <stage_x type="float">1666.2491666666665</stage_x>
+        <stage_y type="float">-2951.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_045</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_046">
+      <DAMoveStage>
+        <stage_x type="float">1666.2491666666665</stage_x>
+        <stage_y type="float">-3151.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_046</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_047">
+      <DAMoveStage>
+        <stage_x type="float">1666.2491666666665</stage_x>
+        <stage_y type="float">-3351.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_047</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_048">
+      <DAMoveStage>
+        <stage_x type="float">1866.2491666666665</stage_x>
+        <stage_y type="float">-3351.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_048</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_049">
+      <DAMoveStage>
+        <stage_x type="float">1866.2491666666665</stage_x>
+        <stage_y type="float">-3151.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_049</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_050">
+      <DAMoveStage>
+        <stage_x type="float">1866.2491666666665</stage_x>
+        <stage_y type="float">-2951.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_050</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_051">
+      <DAMoveStage>
+        <stage_x type="float">1866.2491666666665</stage_x>
+        <stage_y type="float">-2751.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_051</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_052">
+      <DAMoveStage>
+        <stage_x type="float">1866.2491666666665</stage_x>
+        <stage_y type="float">-2551.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_052</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_053">
+      <DAMoveStage>
+        <stage_x type="float">1866.2491666666665</stage_x>
+        <stage_y type="float">-2351.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_053</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_054">
+      <DAMoveStage>
+        <stage_x type="float">1866.2491666666665</stage_x>
+        <stage_y type="float">-2151.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_054</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_055">
+      <DAMoveStage>
+        <stage_x type="float">1866.2491666666665</stage_x>
+        <stage_y type="float">-1951.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_055</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_056">
+      <DAMoveStage>
+        <stage_x type="float">1866.2491666666665</stage_x>
+        <stage_y type="float">-1751.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_056</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_057">
+      <DAMoveStage>
+        <stage_x type="float">1866.2491666666665</stage_x>
+        <stage_y type="float">-1551.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_057</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_058">
+      <DAMoveStage>
+        <stage_x type="float">1866.2491666666665</stage_x>
+        <stage_y type="float">-1351.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_058</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_059">
+      <DAMoveStage>
+        <stage_x type="float">1866.2491666666665</stage_x>
+        <stage_y type="float">-1151.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_059</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_060">
+      <DAMoveStage>
+        <stage_x type="float">1866.2491666666665</stage_x>
+        <stage_y type="float">-951.9508333333332</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_060</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_061">
+      <DAMoveStage>
+        <stage_x type="float">2066.2491666666665</stage_x>
+        <stage_y type="float">-951.9508333333332</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_061</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_062">
+      <DAMoveStage>
+        <stage_x type="float">2066.2491666666665</stage_x>
+        <stage_y type="float">-1151.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_062</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_063">
+      <DAMoveStage>
+        <stage_x type="float">2066.2491666666665</stage_x>
+        <stage_y type="float">-1351.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_063</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_064">
+      <DAMoveStage>
+        <stage_x type="float">2066.2491666666665</stage_x>
+        <stage_y type="float">-1551.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_064</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_065">
+      <DAMoveStage>
+        <stage_x type="float">2066.2491666666665</stage_x>
+        <stage_y type="float">-1751.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_065</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_066">
+      <DAMoveStage>
+        <stage_x type="float">2066.2491666666665</stage_x>
+        <stage_y type="float">-1951.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_066</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_067">
+      <DAMoveStage>
+        <stage_x type="float">2066.2491666666665</stage_x>
+        <stage_y type="float">-2151.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_067</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_068">
+      <DAMoveStage>
+        <stage_x type="float">2066.2491666666665</stage_x>
+        <stage_y type="float">-2351.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_068</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_069">
+      <DAMoveStage>
+        <stage_x type="float">2066.2491666666665</stage_x>
+        <stage_y type="float">-2551.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_069</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_070">
+      <DAMoveStage>
+        <stage_x type="float">2066.2491666666665</stage_x>
+        <stage_y type="float">-2751.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_070</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_071">
+      <DAMoveStage>
+        <stage_x type="float">2066.2491666666665</stage_x>
+        <stage_y type="float">-2951.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_071</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_072">
+      <DAMoveStage>
+        <stage_x type="float">2066.2491666666665</stage_x>
+        <stage_y type="float">-3151.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_072</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_073">
+      <DAMoveStage>
+        <stage_x type="float">2066.2491666666665</stage_x>
+        <stage_y type="float">-3351.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_073</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_074">
+      <DAMoveStage>
+        <stage_x type="float">2266.2491666666665</stage_x>
+        <stage_y type="float">-3351.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_074</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_075">
+      <DAMoveStage>
+        <stage_x type="float">2266.2491666666665</stage_x>
+        <stage_y type="float">-3151.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_075</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_076">
+      <DAMoveStage>
+        <stage_x type="float">2266.2491666666665</stage_x>
+        <stage_y type="float">-2951.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_076</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_077">
+      <DAMoveStage>
+        <stage_x type="float">2266.2491666666665</stage_x>
+        <stage_y type="float">-2751.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_077</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_078">
+      <DAMoveStage>
+        <stage_x type="float">2266.2491666666665</stage_x>
+        <stage_y type="float">-2551.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_078</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_079">
+      <DAMoveStage>
+        <stage_x type="float">2266.2491666666665</stage_x>
+        <stage_y type="float">-2351.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_079</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_080">
+      <DAMoveStage>
+        <stage_x type="float">2266.2491666666665</stage_x>
+        <stage_y type="float">-2151.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_080</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_081">
+      <DAMoveStage>
+        <stage_x type="float">2266.2491666666665</stage_x>
+        <stage_y type="float">-1951.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_081</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_082">
+      <DAMoveStage>
+        <stage_x type="float">2266.2491666666665</stage_x>
+        <stage_y type="float">-1751.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_082</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_083">
+      <DAMoveStage>
+        <stage_x type="float">2266.2491666666665</stage_x>
+        <stage_y type="float">-1551.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_083</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_084">
+      <DAMoveStage>
+        <stage_x type="float">2266.2491666666665</stage_x>
+        <stage_y type="float">-1351.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_084</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_085">
+      <DAMoveStage>
+        <stage_x type="float">2266.2491666666665</stage_x>
+        <stage_y type="float">-1151.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_085</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_086">
+      <DAMoveStage>
+        <stage_x type="float">2266.2491666666665</stage_x>
+        <stage_y type="float">-951.9508333333332</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_086</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_087">
+      <DAMoveStage>
+        <stage_x type="float">2466.2491666666665</stage_x>
+        <stage_y type="float">-951.9508333333332</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_087</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_088">
+      <DAMoveStage>
+        <stage_x type="float">2466.2491666666665</stage_x>
+        <stage_y type="float">-1151.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_088</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_089">
+      <DAMoveStage>
+        <stage_x type="float">2466.2491666666665</stage_x>
+        <stage_y type="float">-1351.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_089</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_090">
+      <DAMoveStage>
+        <stage_x type="float">2466.2491666666665</stage_x>
+        <stage_y type="float">-1551.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_090</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_091">
+      <DAMoveStage>
+        <stage_x type="float">2466.2491666666665</stage_x>
+        <stage_y type="float">-1751.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_091</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_092">
+      <DAMoveStage>
+        <stage_x type="float">2466.2491666666665</stage_x>
+        <stage_y type="float">-1951.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_092</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_093">
+      <DAMoveStage>
+        <stage_x type="float">2466.2491666666665</stage_x>
+        <stage_y type="float">-2151.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_093</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_094">
+      <DAMoveStage>
+        <stage_x type="float">2466.2491666666665</stage_x>
+        <stage_y type="float">-2351.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_094</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_095">
+      <DAMoveStage>
+        <stage_x type="float">2466.2491666666665</stage_x>
+        <stage_y type="float">-2551.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_095</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_096">
+      <DAMoveStage>
+        <stage_x type="float">2466.2491666666665</stage_x>
+        <stage_y type="float">-2751.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_096</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_097">
+      <DAMoveStage>
+        <stage_x type="float">2466.2491666666665</stage_x>
+        <stage_y type="float">-2951.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_097</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_098">
+      <DAMoveStage>
+        <stage_x type="float">2466.2491666666665</stage_x>
+        <stage_y type="float">-3151.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_098</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+    <branch name="hal-mf3_099">
+      <DAMoveStage>
+        <stage_x type="float">2466.2491666666665</stage_x>
+        <stage_y type="float">-3351.950833333333</stage_y>
+      </DAMoveStage>
+      <DACheckFocus>
+        <min_sum>60000</min_sum>
+        <num_focus_checks>20</num_focus_checks>
+        <focus_scan/>
+      </DACheckFocus>
+      <DASetParameters>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+      </DASetParameters>
+      <DATakeMovie>
+        <name type="str">hal-mf3_099</name>
+        <length type="int">36</length>
+        <parameters type="str">hal-config-750z7-647z7-560z1-488z7-405z7-dz15-exp02</parameters>
+        <overwrite type="bool">False</overwrite>
+      </DATakeMovie>
+    </branch>
+  </branch>
+  <branch name="Hybridize Loop 1">
+    <DAValveProtocol>Cleave, 2 min flow</DAValveProtocol>
+    <DAValveProtocol>Hybridize 2, 2 min flow</DAValveProtocol>
+    <DAValveProtocol>Wash readouts, 2XSSC, imaging buffer, 2 min flow</DAValveProtocol>
+    <DAEmail>
+      <subject type="str">Microscope Update</subject>
+      <body type="str">Starting Hyb 2</body>
+    </DAEmail>
+    <branch name="Movie Loop 2">
+      <branch name="hal-mf3_000_0">
+        <DAMoveStage>
+          <stage_x type="float">1066.2491666666665</stage_x>
+          <stage_y type="float">-3151.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_000_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_001_0">
+        <DAMoveStage>
+          <stage_x type="float">1066.2491666666665</stage_x>
+          <stage_y type="float">-2951.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_001_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_002_0">
+        <DAMoveStage>
+          <stage_x type="float">1066.2491666666665</stage_x>
+          <stage_y type="float">-2751.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_002_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_003_0">
+        <DAMoveStage>
+          <stage_x type="float">1066.2491666666665</stage_x>
+          <stage_y type="float">-2551.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_003_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_004_0">
+        <DAMoveStage>
+          <stage_x type="float">1066.2491666666665</stage_x>
+          <stage_y type="float">-2351.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_004_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_005_0">
+        <DAMoveStage>
+          <stage_x type="float">1066.2491666666665</stage_x>
+          <stage_y type="float">-2151.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_005_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_006_0">
+        <DAMoveStage>
+          <stage_x type="float">1066.2491666666665</stage_x>
+          <stage_y type="float">-1951.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_006_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_007_0">
+        <DAMoveStage>
+          <stage_x type="float">1066.2491666666665</stage_x>
+          <stage_y type="float">-1751.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_007_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_008_0">
+        <DAMoveStage>
+          <stage_x type="float">1066.2491666666665</stage_x>
+          <stage_y type="float">-1551.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_008_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_009_0">
+        <DAMoveStage>
+          <stage_x type="float">1066.2491666666665</stage_x>
+          <stage_y type="float">-1351.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_009_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_010_0">
+        <DAMoveStage>
+          <stage_x type="float">1066.2491666666665</stage_x>
+          <stage_y type="float">-1151.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_010_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_011_0">
+        <DAMoveStage>
+          <stage_x type="float">1266.2491666666665</stage_x>
+          <stage_y type="float">-951.9508333333332</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_011_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_012_0">
+        <DAMoveStage>
+          <stage_x type="float">1266.2491666666665</stage_x>
+          <stage_y type="float">-1151.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_012_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_013_0">
+        <DAMoveStage>
+          <stage_x type="float">1266.2491666666665</stage_x>
+          <stage_y type="float">-1351.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_013_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_014_0">
+        <DAMoveStage>
+          <stage_x type="float">1266.2491666666665</stage_x>
+          <stage_y type="float">-1551.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_014_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_015_0">
+        <DAMoveStage>
+          <stage_x type="float">1266.2491666666665</stage_x>
+          <stage_y type="float">-1751.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_015_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_016_0">
+        <DAMoveStage>
+          <stage_x type="float">1266.2491666666665</stage_x>
+          <stage_y type="float">-1951.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_016_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_017_0">
+        <DAMoveStage>
+          <stage_x type="float">1266.2491666666665</stage_x>
+          <stage_y type="float">-2151.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_017_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_018_0">
+        <DAMoveStage>
+          <stage_x type="float">1266.2491666666665</stage_x>
+          <stage_y type="float">-2351.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_018_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_019_0">
+        <DAMoveStage>
+          <stage_x type="float">1266.2491666666665</stage_x>
+          <stage_y type="float">-2551.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_019_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_020_0">
+        <DAMoveStage>
+          <stage_x type="float">1266.2491666666665</stage_x>
+          <stage_y type="float">-2751.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_020_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_021_0">
+        <DAMoveStage>
+          <stage_x type="float">1266.2491666666665</stage_x>
+          <stage_y type="float">-2951.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_021_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_022_0">
+        <DAMoveStage>
+          <stage_x type="float">1266.2491666666665</stage_x>
+          <stage_y type="float">-3151.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_022_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_023_0">
+        <DAMoveStage>
+          <stage_x type="float">1466.2491666666665</stage_x>
+          <stage_y type="float">-3151.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_023_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_024_0">
+        <DAMoveStage>
+          <stage_x type="float">1466.2491666666665</stage_x>
+          <stage_y type="float">-2951.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_024_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_025_0">
+        <DAMoveStage>
+          <stage_x type="float">1466.2491666666665</stage_x>
+          <stage_y type="float">-2751.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_025_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_026_0">
+        <DAMoveStage>
+          <stage_x type="float">1466.2491666666665</stage_x>
+          <stage_y type="float">-2551.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_026_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_027_0">
+        <DAMoveStage>
+          <stage_x type="float">1466.2491666666665</stage_x>
+          <stage_y type="float">-2351.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_027_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_028_0">
+        <DAMoveStage>
+          <stage_x type="float">1466.2491666666665</stage_x>
+          <stage_y type="float">-2151.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_028_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_029_0">
+        <DAMoveStage>
+          <stage_x type="float">1466.2491666666665</stage_x>
+          <stage_y type="float">-1951.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_029_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_030_0">
+        <DAMoveStage>
+          <stage_x type="float">1466.2491666666665</stage_x>
+          <stage_y type="float">-1751.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_030_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_031_0">
+        <DAMoveStage>
+          <stage_x type="float">1466.2491666666665</stage_x>
+          <stage_y type="float">-1551.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_031_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_032_0">
+        <DAMoveStage>
+          <stage_x type="float">1466.2491666666665</stage_x>
+          <stage_y type="float">-1351.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_032_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_033_0">
+        <DAMoveStage>
+          <stage_x type="float">1466.2491666666665</stage_x>
+          <stage_y type="float">-1151.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_033_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_034_0">
+        <DAMoveStage>
+          <stage_x type="float">1466.2491666666665</stage_x>
+          <stage_y type="float">-951.9508333333332</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_034_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_035_0">
+        <DAMoveStage>
+          <stage_x type="float">1666.2491666666665</stage_x>
+          <stage_y type="float">-951.9508333333332</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_035_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_036_0">
+        <DAMoveStage>
+          <stage_x type="float">1666.2491666666665</stage_x>
+          <stage_y type="float">-1151.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_036_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_037_0">
+        <DAMoveStage>
+          <stage_x type="float">1666.2491666666665</stage_x>
+          <stage_y type="float">-1351.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_037_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_038_0">
+        <DAMoveStage>
+          <stage_x type="float">1666.2491666666665</stage_x>
+          <stage_y type="float">-1551.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_038_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_039_0">
+        <DAMoveStage>
+          <stage_x type="float">1666.2491666666665</stage_x>
+          <stage_y type="float">-1751.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_039_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_040_0">
+        <DAMoveStage>
+          <stage_x type="float">1666.2491666666665</stage_x>
+          <stage_y type="float">-1951.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_040_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_041_0">
+        <DAMoveStage>
+          <stage_x type="float">1666.2491666666665</stage_x>
+          <stage_y type="float">-2151.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_041_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_042_0">
+        <DAMoveStage>
+          <stage_x type="float">1666.2491666666665</stage_x>
+          <stage_y type="float">-2351.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_042_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_043_0">
+        <DAMoveStage>
+          <stage_x type="float">1666.2491666666665</stage_x>
+          <stage_y type="float">-2551.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_043_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_044_0">
+        <DAMoveStage>
+          <stage_x type="float">1666.2491666666665</stage_x>
+          <stage_y type="float">-2751.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_044_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_045_0">
+        <DAMoveStage>
+          <stage_x type="float">1666.2491666666665</stage_x>
+          <stage_y type="float">-2951.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_045_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_046_0">
+        <DAMoveStage>
+          <stage_x type="float">1666.2491666666665</stage_x>
+          <stage_y type="float">-3151.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_046_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_047_0">
+        <DAMoveStage>
+          <stage_x type="float">1666.2491666666665</stage_x>
+          <stage_y type="float">-3351.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_047_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_048_0">
+        <DAMoveStage>
+          <stage_x type="float">1866.2491666666665</stage_x>
+          <stage_y type="float">-3351.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_048_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_049_0">
+        <DAMoveStage>
+          <stage_x type="float">1866.2491666666665</stage_x>
+          <stage_y type="float">-3151.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_049_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_050_0">
+        <DAMoveStage>
+          <stage_x type="float">1866.2491666666665</stage_x>
+          <stage_y type="float">-2951.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_050_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_051_0">
+        <DAMoveStage>
+          <stage_x type="float">1866.2491666666665</stage_x>
+          <stage_y type="float">-2751.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_051_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_052_0">
+        <DAMoveStage>
+          <stage_x type="float">1866.2491666666665</stage_x>
+          <stage_y type="float">-2551.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_052_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_053_0">
+        <DAMoveStage>
+          <stage_x type="float">1866.2491666666665</stage_x>
+          <stage_y type="float">-2351.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_053_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_054_0">
+        <DAMoveStage>
+          <stage_x type="float">1866.2491666666665</stage_x>
+          <stage_y type="float">-2151.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_054_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_055_0">
+        <DAMoveStage>
+          <stage_x type="float">1866.2491666666665</stage_x>
+          <stage_y type="float">-1951.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_055_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_056_0">
+        <DAMoveStage>
+          <stage_x type="float">1866.2491666666665</stage_x>
+          <stage_y type="float">-1751.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_056_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_057_0">
+        <DAMoveStage>
+          <stage_x type="float">1866.2491666666665</stage_x>
+          <stage_y type="float">-1551.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_057_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_058_0">
+        <DAMoveStage>
+          <stage_x type="float">1866.2491666666665</stage_x>
+          <stage_y type="float">-1351.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_058_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_059_0">
+        <DAMoveStage>
+          <stage_x type="float">1866.2491666666665</stage_x>
+          <stage_y type="float">-1151.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_059_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_060_0">
+        <DAMoveStage>
+          <stage_x type="float">1866.2491666666665</stage_x>
+          <stage_y type="float">-951.9508333333332</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_060_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_061_0">
+        <DAMoveStage>
+          <stage_x type="float">2066.2491666666665</stage_x>
+          <stage_y type="float">-951.9508333333332</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_061_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_062_0">
+        <DAMoveStage>
+          <stage_x type="float">2066.2491666666665</stage_x>
+          <stage_y type="float">-1151.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_062_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_063_0">
+        <DAMoveStage>
+          <stage_x type="float">2066.2491666666665</stage_x>
+          <stage_y type="float">-1351.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_063_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_064_0">
+        <DAMoveStage>
+          <stage_x type="float">2066.2491666666665</stage_x>
+          <stage_y type="float">-1551.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_064_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_065_0">
+        <DAMoveStage>
+          <stage_x type="float">2066.2491666666665</stage_x>
+          <stage_y type="float">-1751.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_065_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_066_0">
+        <DAMoveStage>
+          <stage_x type="float">2066.2491666666665</stage_x>
+          <stage_y type="float">-1951.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_066_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_067_0">
+        <DAMoveStage>
+          <stage_x type="float">2066.2491666666665</stage_x>
+          <stage_y type="float">-2151.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_067_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_068_0">
+        <DAMoveStage>
+          <stage_x type="float">2066.2491666666665</stage_x>
+          <stage_y type="float">-2351.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_068_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_069_0">
+        <DAMoveStage>
+          <stage_x type="float">2066.2491666666665</stage_x>
+          <stage_y type="float">-2551.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_069_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_070_0">
+        <DAMoveStage>
+          <stage_x type="float">2066.2491666666665</stage_x>
+          <stage_y type="float">-2751.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_070_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_071_0">
+        <DAMoveStage>
+          <stage_x type="float">2066.2491666666665</stage_x>
+          <stage_y type="float">-2951.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_071_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_072_0">
+        <DAMoveStage>
+          <stage_x type="float">2066.2491666666665</stage_x>
+          <stage_y type="float">-3151.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_072_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_073_0">
+        <DAMoveStage>
+          <stage_x type="float">2066.2491666666665</stage_x>
+          <stage_y type="float">-3351.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_073_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_074_0">
+        <DAMoveStage>
+          <stage_x type="float">2266.2491666666665</stage_x>
+          <stage_y type="float">-3351.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_074_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_075_0">
+        <DAMoveStage>
+          <stage_x type="float">2266.2491666666665</stage_x>
+          <stage_y type="float">-3151.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_075_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_076_0">
+        <DAMoveStage>
+          <stage_x type="float">2266.2491666666665</stage_x>
+          <stage_y type="float">-2951.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_076_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_077_0">
+        <DAMoveStage>
+          <stage_x type="float">2266.2491666666665</stage_x>
+          <stage_y type="float">-2751.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_077_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_078_0">
+        <DAMoveStage>
+          <stage_x type="float">2266.2491666666665</stage_x>
+          <stage_y type="float">-2551.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_078_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_079_0">
+        <DAMoveStage>
+          <stage_x type="float">2266.2491666666665</stage_x>
+          <stage_y type="float">-2351.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_079_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_080_0">
+        <DAMoveStage>
+          <stage_x type="float">2266.2491666666665</stage_x>
+          <stage_y type="float">-2151.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_080_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_081_0">
+        <DAMoveStage>
+          <stage_x type="float">2266.2491666666665</stage_x>
+          <stage_y type="float">-1951.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_081_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_082_0">
+        <DAMoveStage>
+          <stage_x type="float">2266.2491666666665</stage_x>
+          <stage_y type="float">-1751.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_082_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_083_0">
+        <DAMoveStage>
+          <stage_x type="float">2266.2491666666665</stage_x>
+          <stage_y type="float">-1551.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_083_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_084_0">
+        <DAMoveStage>
+          <stage_x type="float">2266.2491666666665</stage_x>
+          <stage_y type="float">-1351.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_084_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_085_0">
+        <DAMoveStage>
+          <stage_x type="float">2266.2491666666665</stage_x>
+          <stage_y type="float">-1151.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_085_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_086_0">
+        <DAMoveStage>
+          <stage_x type="float">2266.2491666666665</stage_x>
+          <stage_y type="float">-951.9508333333332</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_086_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_087_0">
+        <DAMoveStage>
+          <stage_x type="float">2466.2491666666665</stage_x>
+          <stage_y type="float">-951.9508333333332</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_087_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_088_0">
+        <DAMoveStage>
+          <stage_x type="float">2466.2491666666665</stage_x>
+          <stage_y type="float">-1151.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_088_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_089_0">
+        <DAMoveStage>
+          <stage_x type="float">2466.2491666666665</stage_x>
+          <stage_y type="float">-1351.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_089_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_090_0">
+        <DAMoveStage>
+          <stage_x type="float">2466.2491666666665</stage_x>
+          <stage_y type="float">-1551.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_090_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_091_0">
+        <DAMoveStage>
+          <stage_x type="float">2466.2491666666665</stage_x>
+          <stage_y type="float">-1751.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_091_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_092_0">
+        <DAMoveStage>
+          <stage_x type="float">2466.2491666666665</stage_x>
+          <stage_y type="float">-1951.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_092_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_093_0">
+        <DAMoveStage>
+          <stage_x type="float">2466.2491666666665</stage_x>
+          <stage_y type="float">-2151.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_093_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_094_0">
+        <DAMoveStage>
+          <stage_x type="float">2466.2491666666665</stage_x>
+          <stage_y type="float">-2351.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_094_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_095_0">
+        <DAMoveStage>
+          <stage_x type="float">2466.2491666666665</stage_x>
+          <stage_y type="float">-2551.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_095_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_096_0">
+        <DAMoveStage>
+          <stage_x type="float">2466.2491666666665</stage_x>
+          <stage_y type="float">-2751.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_096_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_097_0">
+        <DAMoveStage>
+          <stage_x type="float">2466.2491666666665</stage_x>
+          <stage_y type="float">-2951.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_097_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_098_0">
+        <DAMoveStage>
+          <stage_x type="float">2466.2491666666665</stage_x>
+          <stage_y type="float">-3151.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_098_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+      <branch name="hal-mf3_099_0">
+        <DAMoveStage>
+          <stage_x type="float">2466.2491666666665</stage_x>
+          <stage_y type="float">-3351.950833333333</stage_y>
+        </DAMoveStage>
+        <DACheckFocus>
+          <min_sum>60000</min_sum>
+          <num_focus_checks>20</num_focus_checks>
+          <focus_scan/>
+        </DACheckFocus>
+        <DASetParameters>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+        </DASetParameters>
+        <DATakeMovie>
+          <name type="str">hal-mf3_099_0</name>
+          <length type="int">22</length>
+          <parameters type="str">hal-config-750z7-647z7-560z1-dz15-exp02</parameters>
+          <overwrite type="bool">False</overwrite>
+        </DATakeMovie>
+      </branch>
+    </branch>
+  </branch>
+</sequence>
